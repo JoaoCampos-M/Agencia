@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1592.428" height="1121.064" viewBox="0 0 1592.428 1121.064">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_2917" data-name="Retângulo 2917" width="1339.299" height="289" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_2916" data-name="Retângulo 2916" width="1289.827" height="289" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_3666" data-name="Grupo 3666" transform="translate(156.214 -1510.195)">
+    <g id="Grupo_3424" data-name="Grupo 3424" transform="translate(1325.421 1813.161) rotate(169)" clip-path="url(#clip-path)">
+      <path id="Caminho_14672" data-name="Caminho 14672" d="M1402.743,208.652c-46.536,15.164-99.854,18.914-133.848,18.973-64.265.111-113.549-13.481-149.515-30.1-28.409-13.134-55.4-26.578-79.777-40.6-60.032-34.307-109.937-37.652-134.49-40.944-71.334-9.494-217.037,1.292-321.323-15.245C376.724,67.9,334.619-12.311,0,1.606" transform="translate(-39.888 2.92)" fill="none" stroke="#f9c001" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <path id="That_s_enough_" data-name="That&apos;s enough!" d="M59.459,588.635,102.5,776.8s-14.474,48.466,8.928,38.671a1049.719,1049.719,0,0,1,188.4-58.088c132.241-27.4,209.847-9.232,367.633-41.928s287.3-143.19,513.765-187.7,264.519.219,264.519.219l-57.639-200.1L1315.045,11.4S1150.408-35.57,948.936,61.19C900.908,84.256,791.251,170.3,643.086,199.215S445.393,219.56,345.914,215.486C101.5,205.476,0,331.09,0,331.09Z" transform="translate(1252.479 2631.259) rotate(-167)" fill="#f9c001" opacity="0.25"/>
+    <g id="Grupo_3423" data-name="Grupo 3423" transform="matrix(0.985, -0.174, 0.174, 0.985, -14.668, 2320.665)" clip-path="url(#clip-path-2)">
+      <path id="Caminho_14671" data-name="Caminho 14671" d="M1350.926,208.652c-44.817,15.164-96.165,18.914-128.9,18.973-61.891.111-109.355-13.481-143.992-30.1-27.36-13.134-53.354-26.578-76.83-40.6-57.815-34.307-105.876-37.652-129.522-40.944-68.7-9.494-209.02,1.292-309.454-15.245C362.808,67.9,322.259-12.311,0,1.606" transform="translate(-38.415 2.92)" fill="none" stroke="#f9c001" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

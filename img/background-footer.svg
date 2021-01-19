@@ -1,56 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1326.113" height="211.693" viewBox="0 0 1326.113 211.693">
-  <defs>
-    <radialGradient id="radial-gradient" cx="0.133" cy="1.005" r="1.305" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
-      <stop offset="0.09" stop-color="#fa8f21"/>
-      <stop offset="0.78" stop-color="#d82d7e"/>
-    </radialGradient>
-  </defs>
-  <g id="Grupo_3471" data-name="Grupo 3471" transform="translate(19.426 -3915.42)">
-    <g id="Grupo_3406" data-name="Grupo 3406">
-      <path id="Caminho_11207" data-name="Caminho 11207" d="M1312.192,2.455c3.574,29.9,9.077,84.765,9.077,84.765s7.646,86.137-6.122,84.545c-70.26-8.125-149.107-30.985-232.552-39.78-107.2-11.3-212.994-22.417-316.15-17.281-11.423.569-36.451,6.848-47.872,7.784-3.864.317-31.56.264-35.195.614-138.635,13.362-368.318,24.234-499.366,24.654-50.767-2.241-85.932-5.644-131.5-11.6S1.729,123.926,1.729,123.926L.037,26.982S1168.744-2.535,1312.192,2.455Z" transform="matrix(-1, -0.017, 0.017, -1, 1303.726, 4129)" fill="#354e6b"/>
-      <g id="Camada_2" data-name="Camada 2" transform="translate(-14 3915.42)">
-        <g id="OBJECTS">
-          <path id="Caminho_271" data-name="Caminho 271" d="M469.393,96.1c233.018-.747,522.736-50.032,772.771-23.455-238.064-44.2-545.717,3.114-781.175-1.1C257.187,67.906,85.625,25.469,0-.01V39.119C103.329,63.993,276.122,96.678,469.393,96.1Z" transform="translate(0 0.01)" fill="#dbe3e3" fill-rule="evenodd"/>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1326.113" height="211.693" viewBox="0 0 1326.113 211.693">
+  <g id="Grupo_3406" data-name="Grupo 3406" transform="translate(19.426 -3915.42)">
+    <path id="Caminho_11207" data-name="Caminho 11207" d="M1312.192,2.455c3.574,29.9,9.077,84.765,9.077,84.765s7.646,86.137-6.122,84.545c-70.26-8.125-149.107-30.985-232.552-39.78-107.2-11.3-212.994-22.417-316.15-17.281-11.423.569-36.451,6.848-47.872,7.784-3.864.317-31.56.264-35.195.614-138.635,13.362-368.318,24.234-499.366,24.654-50.767-2.241-85.932-5.644-131.5-11.6S1.729,123.926,1.729,123.926L.037,26.982S1168.744-2.535,1312.192,2.455Z" transform="matrix(-1, -0.017, 0.017, -1, 1303.726, 4129)" fill="#206666"/>
+    <g id="Camada_2" data-name="Camada 2" transform="translate(-14 3915.42)">
+      <g id="OBJECTS">
+        <path id="Caminho_271" data-name="Caminho 271" d="M469.393,96.1c233.018-.747,522.736-50.032,772.771-23.455-238.064-44.2-545.717,3.114-781.175-1.1C257.187,67.906,85.625,25.469,0-.01V39.119C103.329,63.993,276.122,96.678,469.393,96.1Z" transform="translate(0 0.01)" fill="#f9c001" fill-rule="evenodd"/>
       </g>
-    </g>
-    <g id="Grupo_3405" data-name="Grupo 3405">
-      <g id="Menu_Close" data-name="Menu &gt; Close" transform="translate(144 4049)">
-        <line id="Linha_1" data-name="Linha 1" x2="44.993" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8"/>
-        <line id="Linha_2" data-name="Linha 2" x2="44.993" transform="translate(0 14.742)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8"/>
-        <line id="Linha_3" data-name="Linha 3" x2="44.993" transform="translate(0 29.485)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8"/>
-      </g>
-      <g id="Grupo_3251" data-name="Grupo 3251" transform="translate(565.487 4021.044)">
-        <text id="Endereço" transform="translate(0 8)" fill="#fff" font-size="9" font-family="Rubik-Bold, Rubik" font-weight="700"><tspan x="0" y="0">Endereço</tspan></text>
-        <text id="Av._Tal_2230_Cavalhada_II_Cáceres_Brasil_-_782xxxx" data-name="Av. Tal, 2230
-Cavalhada II, Cáceres 
-Brasil - 782xxxx" transform="translate(0 20.629)" fill="#fff" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="15">Av. Tal, 2230</tspan><tspan x="0" y="34">Cavalhada II, Cáceres </tspan></text>
-      </g>
-      <g id="Grupo_3250" data-name="Grupo 3250" transform="translate(796.494 4021.02)">
-        <g id="Social_Media_icons" data-name="Social Media icons" transform="translate(0.001 56.774)">
-          <g id="twitter-3" transform="translate(23.05 0.793)">
-            <ellipse id="Elipse_19" data-name="Elipse 19" cx="5.429" cy="5.429" rx="5.429" ry="5.429" transform="translate(0 0)" fill="#fff"/>
-            <path id="Caminho_691" data-name="Caminho 691" d="M239.272,144.011a2.931,2.931,0,0,1-.843.231,1.472,1.472,0,0,0,.646-.812,2.934,2.934,0,0,1-.933.356,1.469,1.469,0,0,0-2.54,1,1.485,1.485,0,0,0,.038.335,4.169,4.169,0,0,1-3.026-1.534,1.47,1.47,0,0,0,.454,1.96,1.461,1.461,0,0,1-.665-.184v.019a1.469,1.469,0,0,0,1.178,1.44,1.462,1.462,0,0,1-.387.051,1.491,1.491,0,0,1-.276-.026,1.47,1.47,0,0,0,1.371,1.02,2.957,2.957,0,0,1-2.174.608,4.175,4.175,0,0,0,6.428-3.518q0-.1,0-.19A2.992,2.992,0,0,0,239.272,144.011Z" transform="translate(-230.663 -141.408)"/>
-          </g>
-          <g id="facebook-icon" transform="translate(0 0)">
-            <path id="Caminho_687" data-name="Caminho 687" d="M10.612,11.232a.62.62,0,0,0,.62-.62V.62a.62.62,0,0,0-.62-.62H.62A.62.62,0,0,0,0,.62v9.992a.62.62,0,0,0,.62.62h9.992Z" transform="translate(0 0)" fill="#fff"/>
-            <path id="Caminho_688" data-name="Caminho 688" d="M110.988,49.846V45.5h1.46l.219-1.7h-1.679V42.719c0-.491.136-.825.84-.825h.9V40.377a12.012,12.012,0,0,0-1.308-.067,2.043,2.043,0,0,0-2.18,2.241V43.8h-1.464v1.7h1.464v4.35h1.751Z" transform="translate(-103.238 -38.614)"/>
-          </g>
-          <g id="instagram-2016" transform="translate(44.929 0)">
-            <path id="Caminho_692" data-name="Caminho 692" d="M3.744,5.616A1.872,1.872,0,1,1,5.616,7.488,1.872,1.872,0,0,1,3.744,5.616m-1.012,0A2.884,2.884,0,1,0,5.616,2.732,2.884,2.884,0,0,0,2.732,5.616m5.208-3a.674.674,0,1,0,.674-.674h0a.674.674,0,0,0-.674.674m-4.593,7.57A3.1,3.1,0,0,1,2.3,9.994a1.745,1.745,0,0,1-.646-.42,1.733,1.733,0,0,1-.42-.646,3.1,3.1,0,0,1-.193-1.043c-.027-.592-.033-.77-.033-2.27s.006-1.677.033-2.27A3.124,3.124,0,0,1,1.238,2.3a1.745,1.745,0,0,1,.42-.646,1.731,1.731,0,0,1,.646-.42,3.1,3.1,0,0,1,1.043-.193c.592-.027.77-.033,2.269-.033s1.677.006,2.27.033a3.124,3.124,0,0,1,1.043.193,1.74,1.74,0,0,1,.646.42,1.74,1.74,0,0,1,.42.646,3.1,3.1,0,0,1,.193,1.043c.027.592.033.77.033,2.27s-.005,1.677-.033,2.27a3.116,3.116,0,0,1-.193,1.043A1.86,1.86,0,0,1,8.929,9.994a3.1,3.1,0,0,1-1.043.193c-.592.027-.77.033-2.27.033s-1.677-.005-2.269-.033M3.3.034A4.118,4.118,0,0,0,1.938.295,2.755,2.755,0,0,0,.943.943a2.744,2.744,0,0,0-.648.995A4.119,4.119,0,0,0,.034,3.3C.006,3.9,0,4.091,0,5.616S.006,7.333.034,7.932A4.119,4.119,0,0,0,.295,9.295a2.745,2.745,0,0,0,.648.995,2.761,2.761,0,0,0,.995.648A4.122,4.122,0,0,0,3.3,11.2c.6.027.79.034,2.315.034s1.717-.006,2.315-.034a4.119,4.119,0,0,0,1.363-.261,2.871,2.871,0,0,0,1.643-1.643A4.108,4.108,0,0,0,11.2,7.932c.027-.6.034-.79.034-2.315S11.226,3.9,11.2,3.3a4.118,4.118,0,0,0-.261-1.363A2.762,2.762,0,0,0,10.29.943,2.748,2.748,0,0,0,9.3.295,4.113,4.113,0,0,0,7.932.034C7.333.007,7.142,0,5.617,0S3.9.006,3.3.034" transform="translate(0 0)" fill="url(#radial-gradient)"/>
-            <path id="Caminho_693" data-name="Caminho 693" d="M3.744,5.616A1.872,1.872,0,1,1,5.616,7.488,1.872,1.872,0,0,1,3.744,5.616m-1.012,0A2.884,2.884,0,1,0,5.616,2.732,2.884,2.884,0,0,0,2.732,5.616m5.208-3a.674.674,0,1,0,.674-.674h0a.674.674,0,0,0-.674.674m-4.593,7.57A3.1,3.1,0,0,1,2.3,9.994a1.745,1.745,0,0,1-.646-.42,1.733,1.733,0,0,1-.42-.646,3.1,3.1,0,0,1-.193-1.043c-.027-.592-.033-.77-.033-2.27s.006-1.677.033-2.27A3.124,3.124,0,0,1,1.238,2.3a1.745,1.745,0,0,1,.42-.646,1.731,1.731,0,0,1,.646-.42,3.1,3.1,0,0,1,1.043-.193c.592-.027.77-.033,2.269-.033s1.677.006,2.27.033a3.124,3.124,0,0,1,1.043.193,1.74,1.74,0,0,1,.646.42,1.74,1.74,0,0,1,.42.646,3.1,3.1,0,0,1,.193,1.043c.027.592.033.77.033,2.27s-.005,1.677-.033,2.27a3.116,3.116,0,0,1-.193,1.043A1.86,1.86,0,0,1,8.929,9.994a3.1,3.1,0,0,1-1.043.193c-.592.027-.77.033-2.27.033s-1.677-.005-2.269-.033M3.3.034A4.118,4.118,0,0,0,1.938.295,2.755,2.755,0,0,0,.943.943a2.744,2.744,0,0,0-.648.995A4.119,4.119,0,0,0,.034,3.3C.006,3.9,0,4.091,0,5.616S.006,7.333.034,7.932A4.119,4.119,0,0,0,.295,9.295a2.745,2.745,0,0,0,.648.995,2.761,2.761,0,0,0,.995.648A4.122,4.122,0,0,0,3.3,11.2c.6.027.79.034,2.315.034s1.717-.006,2.315-.034a4.119,4.119,0,0,0,1.363-.261,2.871,2.871,0,0,0,1.643-1.643A4.108,4.108,0,0,0,11.2,7.932c.027-.6.034-.79.034-2.315S11.226,3.9,11.2,3.3a4.118,4.118,0,0,0-.261-1.363A2.762,2.762,0,0,0,10.29.943,2.748,2.748,0,0,0,9.3.295,4.113,4.113,0,0,0,7.932.034C7.333.007,7.142,0,5.617,0S3.9.006,3.3.034" transform="translate(0 0)" fill="#fff"/>
-          </g>
-        </g>
-        <text id="Fale_conosco" data-name="Fale conosco" transform="translate(0 8)" fill="#fff" font-size="9" font-family="Rubik-Bold, Rubik" font-weight="700"><tspan x="0" y="0">Fale conosco</tspan></text>
-        <text id="Contato_unemat.br_55_65_99999-9999_" data-name="Contato@unemat.br
-+55 (65) 99999-9999 " transform="translate(0 27.657)" fill="#fff" font-size="9" font-family="Rubik-Regular, Rubik" opacity="0.5"><tspan x="0" y="0">Contato@unemat.br</tspan><tspan x="0" y="15">+55 (65) 99999-9999 </tspan></text>
-      </g>
-      <g id="Grupo_3247" data-name="Grupo 3247" transform="translate(958.515 4032.987)">
-        <rect id="Retângulo_2174" data-name="Retângulo 2174" width="183.485" height="54.286" transform="translate(0 0)" fill="#dbe3e3"/>
-        <text id="LOGO" transform="translate(53.943 37.6)" fill="#354e6b" font-size="29" font-family="Rubik-Regular, Rubik"><tspan x="0" y="0">LOGO</tspan></text>
-      </g>
-      <text id="Unemat_Universidade_do_Mato_Grosso_Desenvolvido_por_Risc_-_Centro_de_Inovação_" data-name="Unemat – Universidade do Mato Grosso 
-Desenvolvido por Risc - Centro de Inovação " transform="translate(235.088 4061)" fill="#fff" font-size="12" font-family="Rubik-Regular, Rubik"><tspan x="0" y="0">Unemat – Universidade do Mato Grosso </tspan><tspan x="0" y="14">Desenvolvido por Risc - Centro de Inovação </tspan></text>
     </g>
   </g>
 </svg>

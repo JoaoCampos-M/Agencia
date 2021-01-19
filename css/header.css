@@ -8,8 +8,16 @@ header {
   display: flex;
   justify-content: space-around;
   width: 100vw;
-  background-color: #1F6565;
+  /* background-color: #1f6565; */
   padding-top: 2rem;
+}
+
+.bg-header-wave {
+  position: absolute;
+  z-index: -1;
+  top: 0%;
+  width: 80vw;
+  right: 0;
 }
 
 header .logo-vitrine img {

@@ -1,96 +1,112 @@
 <!DOCTYPE html>
 <html lang="bt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vitrine</title>
+    <link rel="stylesheet" href="./css/header.css" />
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vitrine</title>
-  <link rel="stylesheet" href="./css/header.css">
+    <link rel="stylesheet" href="./css/footer.css" />
+  </head>
 
-  <link rel="stylesheet" href="./css/footer.css">
-</head>
+  <body>
+    <div>
+      <header>
+        <div class="menu-icones">
+          <div class="logo-vitrine">
+            <img src="img/Brasão Unemat - PB.png" alt="" />
+          </div>
+          <nav class="navbar-principal">
+            <div class="navbar-item">
+              <p class="inicio-op">Início</p>
+              <div class="barra-navbar"></div>
+              <ul class="inicio d-none">
+                <li>menu1</li>
+                <li>menu1</li>
+                <li>menu1</li>
+                <li>menu1</li>
+              </ul>
+            </div>
+            <div class="navbar-item">
+              <p class="menu2-op">Portfólio</p>
+              <div class="barra-navbar"></div>
+              <ul class="menu2 d-none">
+                <li>menu2</li>
+                <li>menu2</li>
+                <li>menu2</li>
+                <li>menu2</li>
+              </ul>
+            </div>
+            <div class="navbar-item">
+              <p class="menu3-op">Parcerias</p>
+              <div class="barra-navbar"></div>
+              <ul class="menu3 d-none">
+                <li>menu3</li>
+                <li>menu3</li>
+                <li>menu3</li>
+                <li>menu3</li>
+              </ul>
+            </div>
+            <div class="navbar-item">
+              <p class="contato-op">Empreendedorismo</p>
+              <div class="barra-navbar"></div>
+              <ul class="contato d-none">
+                <li>menu4</li>
+                <li>menu4</li>
+                <li>menu4</li>
+                <li>menu4</li>
+              </ul>
+            </div>
+            <div class="navbar-item">
+              <p class="contato-op">Contato</p>
+              <div class="barra-navbar"></div>
+              <ul class="contato d-none">
+                <li>menu4</li>
+                <li>menu4</li>
+                <li>menu4</li>
+                <li>menu4</li>
+              </ul>
+            </div>
+          </nav>
 
-<body>
-  <header>
-    <img class="bg-header-wave"  src="./img/background-header.svg" >
-    <div class="logo-vitrine">
-      <img alt="">
-    </div>
-    <nav class="navbar-principal">
-      <div class="navbar-item">
-        <p class="inicio-op"> Início </p>
-        <div class="barra-navbar"></div>
-        <ul class="inicio d-none">
-          <li>menu1</li>
-          <li>menu1</li>
-          <li>menu1</li>
-          <li>menu1</li>
-        </ul>
-      </div>
-      <div class="navbar-item">
-        <p class="menu2-op">Portfólio </p>
-        <div class="barra-navbar"></div>
-        <ul class="menu2 d-none">
-          <li>menu2</li>
-          <li>menu2</li>
-          <li>menu2</li>
-          <li>menu2</li>
-        </ul>
-
-      </div>
-      <div class="navbar-item">
-        <p class="menu3-op">Parcerias</p>
-        <div class="barra-navbar"></div>
-        <ul class="menu3 d-none">
-          <li>menu3</li>
-          <li>menu3</li>
-          <li>menu3</li>
-          <li>menu3</li>
-        </ul>
-      </div>
-      <div class="navbar-item">
-        <p class="contato-op">Empreendedorismo</p>
-        <div class="barra-navbar"></div>
-        <ul class="contato d-none">
-          <li>menu4</li>
-          <li>menu4</li>
-          <li>menu4</li>
-          <li>menu4</li>
-        </ul>
-      </div>
-        <div class="navbar-item">
-        <p class="contato-op">Contato</p>
-        <div class="barra-navbar"></div>
-        <ul class="contato d-none">
-          <li>menu4</li>
-          <li>menu4</li>
-          <li>menu4</li>
-          <li>menu4</li>
-        </ul>
-      </div>
-    </nav>
-    <div class="search-forms">
-      <div class="pesquisa-img">
-        <img class="search-button-img" src="img/lupa-branca.svg" id="pesquisa-img" onclick="opensearch()" alt=""
-          srcset="">
-      </div>
-      <form class="pesquisa d-none" id="pesquisa" action="" method="post">
-        <div class="barra-pesquisa">
-          <input type="search" class="search-bar" placeholder="Buscar no Site...">
-          <button class="search-button" type="submit" value="">
-            <img class="search-button-img" src="img/lupa-azul.svg" alt="" onclick="opensearch()">
-          </button>
+          <div class="logo-vitrine">
+            <img src="img/Brasão Unemat - PB.png" alt="" />
+          </div>
         </div>
-      </form>
+        <img class="bg-header-wave" src="./img/background-header.svg" />
+        <div class="search-forms">
+          <div class="pesquisa-img">
+            <img
+              class="search-button-img"
+              src="img/lupa-branca.svg"
+              id="pesquisa-img"
+              onclick="opensearch()"
+              alt=""
+              srcset=""
+            />
+          </div>
+          <form class="pesquisa d-none" id="pesquisa" action="" method="post">
+            <div class="barra-pesquisa">
+              <input
+                type="search"
+                class="search-bar"
+                placeholder="Buscar no Site..."
+              />
+              <button class="search-button" type="submit" value="">
+                <img
+                  class="search-button-img"
+                  src="img/lupa-azul.svg"
+                  alt=""
+                  onclick="opensearch()"
+                />
+              </button>
+            </div>
+          </form>
+        </div>
+      </header>
     </div>
-    <div class="logo-vitrine">
-      <img src="img/Brasão Unemat - PB.png" alt="">
-    </div>
-  </header>
 
- 
-  <script src="js/nav.js"></script>
-  <script src="js/search-buton.js"></script>
-</body>
-
+    <script src="js/nav.js"></script>
+    <script src="js/search-buton.js"></script>
+  </body>
 </html>

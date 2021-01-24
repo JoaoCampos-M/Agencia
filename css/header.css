@@ -123,6 +123,12 @@ header .logo-vitrine img {
     justify-content: space-around;
 }
 .baner-inicio{
+  width: 100vw;
   height: 100vh;
-  background-color: red;
+}
+
+.bg-header-wave-2{
+  position: absolute;
+    width: 100vw;
+    bottom: 0px;
 }

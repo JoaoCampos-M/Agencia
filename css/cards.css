@@ -1,16 +1,17 @@
 .cards-header{
   display:flex;
   justify-content: space-around;
-  width: 70vw;
+  width: 65vw;
   margin:0px auto;
+  margin-top:12vh;
 }
 .card-h-item{
   display: flex;
   flex-direction: column;
-  width: 30%;
+  width: 31%;
   background-color: rgba(255,255,255,0.7);
   margin: 0px 10px;
-  box-shadow: 2px 2px 4px gray;
+  box-shadow: 2px 2px 8px gray;
 }
 .card-h-item a{
   font-weight: bold;
@@ -23,10 +24,11 @@
 .card-h-titulo{
   padding: 10px 20px;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1.2vw;
   text-align: center;
   color: rgb(24, 52, 86);
   font-family: Rubik-Light;
+  background-color: white;
 }
 
 .card-h-body{
@@ -34,4 +36,17 @@
 }
 .card-h-body img{
   width: 100%;
+}
+.bg-header-cicle-1{
+  position: absolute;
+  top:20vh;
+  left: 5vw;
+  width: 20vw;
+}
+.bg-header-square-1{
+  position:absolute;
+  top: 35vh;
+  right: 5vw;
+  width: 18vw;
+  height: 18vw;
 }

@@ -1,7 +1,37 @@
 .cards-header{
   display:flex;
-  background-color: rgba(0,0,0,0.3);
+  justify-content: space-around;
+  width: 70vw;
+  margin:0px auto;
 }
 .card-h-item{
-  width: 33%;
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  background-color: rgba(255,255,255,0.7);
+  margin: 0px 10px;
+  box-shadow: 2px 2px 4px gray;
+}
+.card-h-item a{
+  font-weight: bold;
+  color:rgb(24, 52, 86);
+  background-color: rgb(248,183,22);
+  padding: 8px 20px;
+  margin: 5px auto;
+  width: max-content;
+}
+.card-h-titulo{
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+  color: rgb(24, 52, 86);
+  font-family: Rubik-Light;
+}
+
+.card-h-body{
+
+}
+.card-h-body img{
+  width: 100%;
 }

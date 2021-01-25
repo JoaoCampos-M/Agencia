@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="./css/header.css" />
     <link rel="stylesheet" href="./css/animacoes.css" />
     <link rel="stylesheet" href="./css/footer.css" />
-    <link rel="stylesheet" href="./css/cards.css"/>
+    <link rel="stylesheet" href="./css/cards.css" />
+    <link rel="stylesheet" href="./css/global-styles.css" />
+    <link rel="stylesheet" href="./css/fonts.css" />
   </head>
 
   <body>
@@ -75,57 +77,69 @@
           </div>
         </div>
         <img class="bg-header-wave" src="./img/background-header.svg" />
-        <div class="search-forms">
-          <div class="pesquisa-img">
-            <img
-              class="search-button-img"
-              src="img/lupa-branca.svg"
-              id="pesquisa-img"
-              onclick="opensearch()"
-              alt=""
-              srcset=""
-            />
-          </div>
-          <form class="pesquisa d-none" id="pesquisa" action="" method="post">
-            <div class="barra-pesquisa">
-              <input
-                type="search"
-                class="search-bar"
-                placeholder="Buscar no Site..."
+        <div>
+          <div class="search-forms">
+            <div class="pesquisa-img">
+              <img
+                class="search-button-img"
+                src="img/lupa-branca.svg"
+                id="pesquisa-img"
+                onclick="opensearch()"
+                alt=""
+                srcset=""
               />
-              <button class="search-button" type="submit" value="">
-                <img
-                  class="search-button-img"
-                  src="img/lupa-azul.svg"
-                  alt=""
-                  onclick="opensearch()"
-                />
-              </button>
             </div>
-          </form>
+            <form class="pesquisa d-none" id="pesquisa" action="" method="post">
+              <div class="barra-pesquisa">
+                <input
+                  type="search"
+                  class="search-bar"
+                  placeholder="Buscar no Site..."
+                />
+                <button class="search-button" type="submit" value="">
+                  <img
+                    class="search-button-img"
+                    src="img/lupa-azul.svg"
+                    alt=""
+                    onclick="opensearch()"
+                  />
+                </button>
+              </div>
+            </form>
+          </div>
         </div>
       </header>
+
+      <section>
+        <div class="cards-header">
+          <div class="card-h-item">
+            <p class="card-h-titulo"> <strong> Transferência </strong> de Tecnologia</p>
+            <a class="btn-saibamais">Saiba Mais</a>
+            <div class="card-h-body">
+              <img src="./img/img-computer-vitrine.svg" alt="" />
+            </div>
+          </div>
+          <div class="card-h-item">
+            <p class="card-h-titulo"> <strong> Alianças </strong> Estratégicas</p>
+            <a class="btn-saibamais">Saiba Mais</a>
+            <div class="card-h-body">
+              <img src="./img/img-computer-vitrine.svg" alt="" />
+            </div>
+          </div>
+          <div class="card-h-item">
+            <p class="card-h-titulo"> <strong> Empreendedorismo </strong> e Logística</p>
+            <a class="btn-saibamais">Saiba Mais</a>
+            <div class="card-h-body">
+              <img src="./img/img-computer-vitrine.svg" alt="" />
+            </div>
+          </div>
+        </div>
+      </section>
       <img
         class="bg-header-wave-2"
         class=""
         src="./img/method-draw-image.svg"
       />
-      <section>
-        <div class="cards-header">
-          <div class="card-h-item">
-            <p class="card-h-titulo">Transferência de Tecnologia</p>
-            <button class="btn-saibamais">Saiba Mais</button>
-          </div>
-          <div class="card-h-item">
-            <p class="card-h-titulo">Alianças Estratégicas</p>
-            <button class="btn-saibamais">Saiba Mais</button>
-          </div>
-          <div class="card-h-item">
-            <p class="card-h-titulo">Empreendedorismo e Logística</p>
-            <button class="btn-saibamais">Saiba Mais</button>
-          </div>
-        </div>
-      </section>
     </div>
 
     <script src="js/nav.js"></script>

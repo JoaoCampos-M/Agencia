@@ -26,3 +26,8 @@ strong{
   padding: 20px 10vw;
   /* background-color: red; */
 }
+
+a{
+  text-decoration: none;
+  cursor: pointer;
+}

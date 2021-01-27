@@ -57,6 +57,7 @@ Outros estilos que mais tarde devem ser movidos para os arquivos certos
 
 .text-image{
   display:flex;
+  justify-content: space-around;
 }
 .text-image img{
   width: 28vw;
@@ -66,8 +67,8 @@ Outros estilos que mais tarde devem ser movidos para os arquivos certos
 
 .text-image .text-container{
   display: block;
-  border-left: 5px solid #1F6565;
-  padding: 5px;
+  border-left: 8px solid #1F6565;
+  padding: 5px 10px;
   margin: 40px 0px;
 }
 
@@ -78,12 +79,24 @@ Outros estilos que mais tarde devem ser movidos para os arquivos certos
 
 .principal-title-2{
   font-family: Rubik-Bold;
-  font-size: 3rem;
+  font-size: 4rem;
   color: #1F6565;
+  margin: 10px 0px;
 }
 
 .caption-2{
   font-family: Rubik-Regular;
   font-size: 3rem;
   color: #1F6565;
+}
+.btn-saber-mais-1{
+  font-weight: bold;
+  color:white;
+  background-color: #1F6565;
+  padding: 8px 20px;
+  margin: 5px auto;
+  width: max-content;
+}
+.w-50{
+  max-width: 50%;
 }

@@ -77,11 +77,12 @@
 }
 
 .card-ms-body {
-  padding: 0px 10px;
+  margin: 0px 10px;
+  box-shadow: 1px 1px 10px lightgray;
 }
 .card-ms-body img {
   width: 100%;
-  box-shadow: 1px 1px 10px lightgray ;
+
 }
 .bg-header-cicle-1 {
   position: absolute;

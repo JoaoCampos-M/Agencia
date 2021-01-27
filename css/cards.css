@@ -50,3 +50,40 @@
   width: 18vw;
   height: 18vw;
 }
+
+/*
+Outros estilos que mais tarde devem ser movidos para os arquivos certos
+*/
+
+.text-image{
+  display:flex;
+}
+.text-image img{
+  width: 28vw;
+  height: 50%;
+  padding: 20px;
+}
+
+.text-image .text-container{
+  display: block;
+  border-left: 5px solid #1F6565;
+  padding: 5px;
+  margin: 40px 0px;
+}
+
+.txt-1{
+  color:#1F6565;
+  font-size: 1.2rem;
+}
+
+.principal-title-2{
+  font-family: Rubik-Bold;
+  font-size: 3rem;
+  color: #1F6565;
+}
+
+.caption-2{
+  font-family: Rubik-Regular;
+  font-size: 3rem;
+  color: #1F6565;
+}

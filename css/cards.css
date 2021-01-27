@@ -8,10 +8,10 @@
 .card-h-item{
   display: flex;
   flex-direction: column;
-  width: 31%;
+  min-width: 30%;
   background-color: rgba(255,255,255,0.7);
-  margin: 0px 10px;
-  box-shadow: 2px 2px 8px gray;
+  margin: 0px 5px;
+  box-shadow: 2px 2px 20px gray;
 }
 .card-h-item a{
   font-weight: bold;
@@ -37,14 +37,60 @@
 .card-h-body img{
   width: 100%;
 }
-.bg-header-cicle-1{
+
+.cards-midias-sociais {
+  display: flex;
+  justify-content: space-around;
+  width: 62vw;
+  margin: 0px auto;
+  margin-top: 12vh;
+}
+.card-ms-item {
+  display: flex;
+  flex-direction: column;
+  width: 32%;
+  background-color:white;
+  margin: 0px 5px;
+  box-shadow: 2px 2px 20px gray;
+}
+.card-ms-item a {
+  display: block;
+  font-weight: bold;
+  color: white;
+  background-color: #183456;
+  padding: 10px 25px;
+  margin: 5px auto;
+  width: max-content;
+}
+.card-ms-titulo {
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 1.1vw;
+  text-align: center;
+  color: black;
+  font-family: Rubik-Light;
+  background-color: white;
+}
+
+.card-ms-titulo strong{
+  font-size: 1.3vw;
+}
+
+.card-ms-body {
+  padding: 0px 10px;
+}
+.card-ms-body img {
+  width: 100%;
+  box-shadow: 1px 1px 10px lightgray ;
+}
+.bg-header-cicle-1 {
   position: absolute;
-  top:20vh;
+  top: 20vh;
   left: 5vw;
   width: 20vw;
 }
-.bg-header-square-1{
-  position:absolute;
+.bg-header-square-1 {
+  position: absolute;
   top: 35vh;
   right: 5vw;
   width: 18vw;
@@ -55,48 +101,61 @@
 Outros estilos que mais tarde devem ser movidos para os arquivos certos
 */
 
-.text-image{
-  display:flex;
+.text-image {
+  display: flex;
   justify-content: space-around;
 }
-.text-image img{
+.text-image img {
   width: 28vw;
   height: 50%;
   padding: 20px;
 }
 
-.text-image .text-container{
+.text-image .text-container {
   display: block;
-  border-left: 8px solid #1F6565;
+  border-left: 8px solid #1f6565;
   padding: 5px 10px;
   margin: 40px 0px;
 }
 
-.txt-1{
-  color:#1F6565;
+.txt-1 {
+  color: #1f6565;
   font-size: 1.2rem;
 }
 
-.principal-title-2{
+.principal-title-2 {
   font-family: Rubik-Bold;
   font-size: 4rem;
-  color: #1F6565;
+  color: #1f6565;
   margin: 10px 0px;
 }
 
-.caption-2{
+.caption-2 {
   font-family: Rubik-Regular;
   font-size: 3rem;
-  color: #1F6565;
+  color: #1f6565;
 }
-.btn-saber-mais-1{
+.btn-saber-mais-1 {
   font-weight: bold;
-  color:white;
-  background-color: #1F6565;
+  color: white;
+  background-color: #1f6565;
   padding: 8px 20px;
   margin: 5px auto;
   width: max-content;
 }
-.w-50{
+.w-50 {
   max-width: 50%;
+}
+
+.principal-title-1 {
+  font-family: Rubik-Bold;
+  font-size: 4rem;
+  color: #183456;
+  margin: 10px 0px;
+}
+
+.caption-1 {
+  font-family: Rubik-Regular;
+  font-size: 3rem;
+  color: #183456;
 }

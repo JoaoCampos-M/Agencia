@@ -57,6 +57,7 @@
   display: flex;
   justify-content: space-around;
   margin: 5px 0px;
+  padding: 10px 0px;
 }
 .card-ms-item a {
   display: block;

@@ -46,6 +46,12 @@
   padding-right: 20px;
 }
 
+.margin-right-green {
+  margin-top: 30px;
+  border-right: solid 8px #1f6565;
+  padding-right: 20px;
+}
+
 .text-align-right{
   text-align: right;
   margin-top: 10vw;

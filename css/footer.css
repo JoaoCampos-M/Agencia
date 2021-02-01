@@ -1,7 +1,12 @@
 footer{
+    position: relative;
+    margin-top: 100px;
+}
+.bg-footer{
+    margin-bottom: -10px;
     width: 100vw;
-    background-color: rgb(24,52,86);
-    margin-top: 120px;
+    bottom: 0;
+    position: absolute;
 }
 
 .container-footer{
@@ -9,8 +14,9 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin: 0 auto;
-    padding: 30px;
+    position: absolute;
+    bottom: 0;
+   left: 10vw;
 }
 
 .dropdown img, .logo-footer img{

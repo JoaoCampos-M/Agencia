@@ -2,6 +2,10 @@ footer{
     position: relative;
     margin-top: 100px;
 }
+
+footer p{
+    color: white;
+}
 .bg-footer{
     margin-bottom: -10px;
     width: 100vw;
@@ -35,3 +39,4 @@ footer{
     justify-content: space-around;
     margin-top: 20px;
 }
+

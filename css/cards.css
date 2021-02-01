@@ -53,6 +53,12 @@
   margin: 0px 5px;
   box-shadow: 2px 2px 20px gray;
 }
+.card-ms-item .social-icons{
+  display: flex;
+  justify-content: space-around;
+  margin: 5px 0px;
+  padding: 10px 0px;
+}
 .card-ms-item a {
   display: block;
   font-weight: bold;

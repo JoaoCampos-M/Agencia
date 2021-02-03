@@ -1,27 +1,27 @@
-.cards-header{
-  display:flex;
+.cards-header {
+  display: flex;
   justify-content: space-around;
   width: 65vw;
-  margin:0px auto;
-  margin-top:12vh;
+  margin: 0px auto;
+  margin-top: 12vh;
 }
-.card-h-item{
+.card-h-item {
   display: flex;
   flex-direction: column;
   min-width: 30%;
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255, 255, 255, 0.7);
   margin: 0px 5px;
   box-shadow: 2px 2px 20px gray;
 }
-.card-h-item a{
+.card-h-item a {
   font-weight: bold;
-  color:rgb(24, 52, 86);
-  background-color: rgb(248,183,22);
+  color: rgb(24, 52, 86);
+  background-color: rgb(248, 183, 22);
   padding: 8px 20px;
   margin: 5px auto;
   width: max-content;
 }
-.card-h-titulo{
+.card-h-titulo {
   padding: 10px 20px;
   font-weight: bold;
   font-size: 1.2vw;
@@ -31,10 +31,9 @@
   background-color: white;
 }
 
-.card-h-body{
-
+.card-h-body {
 }
-.card-h-body img{
+.card-h-body img {
   width: 100%;
 }
 
@@ -49,11 +48,11 @@
   display: flex;
   flex-direction: column;
   width: 32%;
-  background-color:white;
+  background-color: white;
   margin: 0px 5px;
   box-shadow: 2px 2px 20px gray;
 }
-.card-ms-item .social-icons{
+.card-ms-item .social-icons {
   display: flex;
   justify-content: space-around;
   margin: 5px 0px;
@@ -78,7 +77,7 @@
   background-color: white;
 }
 
-.card-ms-titulo strong{
+.card-ms-titulo strong {
   font-size: 1.3vw;
 }
 
@@ -88,7 +87,6 @@
 }
 .card-ms-body img {
   width: 100%;
-
 }
 .bg-header-cicle-1 {
   position: absolute;
@@ -167,16 +165,47 @@ Outros estilos que mais tarde devem ser movidos para os arquivos certos
   font-size: 3rem;
   color: #183456;
 }
-section.prop-intelectual{
+section.prop-intelectual {
   padding: 10vh 10vw;
 }
-.prop-int-bg{
+.prop-int-bg {
   position: absolute;
   width: 100vw;
   top: 0px;
   left: 0;
   z-index: -1;
 }
-.p-rel{
+.p-rel {
   position: relative;
+}
+.img-bg {
+  position: absolute;
+  z-index: -1;
+}
+.vitrine-circle {
+  top: 0;
+  left: 0;
+  margin-left: 5vw;
+  width: 23vw;
+  opacity: 0.5;
+  transform: rotateY(180deg);
+}
+.vitrine-circle2 {
+  bottom: 0;
+  right:0;
+  margin-right: 8vw;
+  margin-bottom: 12vh;
+  width: 30vw;
+  opacity: 0.5;
+}
+.align-r{
+  text-align: right;
+}
+.f-end{
+  justify-content: flex-end;
+}
+.vitrine-square{
+  top:0px;
+  right: 0px;
+  margin-top:15vh;
 }

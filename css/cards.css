@@ -111,6 +111,7 @@ Outros estilos que mais tarde devem ser movidos para os arquivos certos
 .text-image {
   display: flex;
   justify-content: space-around;
+  margin-top: 3vh;
 }
 .text-image img {
   width: 28vw;
@@ -165,4 +166,17 @@ Outros estilos que mais tarde devem ser movidos para os arquivos certos
   font-family: Rubik-Regular;
   font-size: 3rem;
   color: #183456;
+}
+section.prop-intelectual{
+  padding: 10vh 10vw;
+}
+.prop-int-bg{
+  position: absolute;
+  width: 100vw;
+  top: 0px;
+  left: 0;
+  z-index: -1;
+}
+.p-rel{
+  position: relative;
 }

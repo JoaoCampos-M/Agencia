@@ -40,9 +40,9 @@
 .cards-midias-sociais {
   display: flex;
   justify-content: space-around;
-  width: 62vw;
+  width:70vw;
   margin: 0px auto;
-  margin-top: 12vh;
+  margin-top: 5vh;
 }
 .card-ms-item {
   display: flex;
@@ -50,6 +50,7 @@
   width: 32%;
   background-color: white;
   margin: 0px 5px;
+  padding: 5px 10px;
   box-shadow: 2px 2px 20px gray;
 }
 .card-ms-item .social-icons {
@@ -208,4 +209,19 @@ section.prop-intelectual {
   top:0px;
   right: 0px;
   margin-top:15vh;
+}
+.midias-circle2 {
+  top: 0;
+  right:0;
+  margin-right: 8vw;
+  margin-top:12vh;
+  width: 30vw;
+  opacity: 0.6;
+}
+.midias-circle {
+  top: 0;
+  left: 0;
+  margin-left: 1vw;
+  width: 35vw;
+  transform: rotateY(180deg);
 }

@@ -13,6 +13,10 @@ header {
   right: 0;
 }
 
+header .logo-vitrine{
+  max-width: 10vw;
+}
+
 header .logo-vitrine img {
   max-width: 10vw;
   max-height: 10vw;
@@ -55,8 +59,16 @@ header .logo-vitrine img {
   color: rgb(16, 14, 71);
 }
 
+.area-pesq{
+  display: flex;
+  flex-direction: column;
+  width: 170px;
+}
+
 .search-forms {
-  width: 17vw;
+  max-width: 180px;
+  min-height: 39px;
+  
 }
 
 .barra-pesquisa {
@@ -68,6 +80,7 @@ header .logo-vitrine img {
   border: 1px;
   border-radius: 15px;
   padding: 2px 25px 2px 5px;
+  width: 170px;
 }
 
 .search-button {

@@ -23,14 +23,8 @@
         </div>
         <nav class="navbar-principal">
           <div class="navbar-item">
-            <p class="inicio-op">Início</p>
+          <p class="inicio-op"> Início</p>
             <div class="barra-navbar"></div>
-            <ul class="inicio d-none">
-              <li>menu1</li>
-              <li>menu1</li>
-              <li>menu1</li>
-              <li>menu1</li>
-            </ul>
           </div>
           <div class="navbar-item">
             <p class="menu2-op">Portfólio</p>
@@ -73,28 +67,30 @@
             </ul>
           </div>
         </nav>
-
-        <div class="logo-vitrine">
-          <img src="img/Brasão Unemat - PB.png" alt="" />
+        <div class="area-pesq">
+          <div class="logo-vitrine">
+            <img src="img/Brasão Unemat - PB.png" alt="" />
+          </div>
+          <div>
+            <div class="search-forms">
+              <div class="pesquisa-img">
+                <img class="search-button-img" src="img/lupa-branca.svg" id="pesquisa-img" onclick="opensearch()" alt=""
+                  srcset="" />
+              </div>
+              <form class="pesquisa d-none" id="pesquisa" action="" method="post">
+                <div class="barra-pesquisa">
+                  <input type="search" class="search-bar" placeholder="Buscar no Site..." />
+                  <button class="search-button" type="submit" value="">
+                    <img class="search-button-img" src="img/lupa-azul.svg" alt="" onclick="opensearch()" />
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
         </div>
       </div>
       <img class="bg-header-wave" src="./img/background-header.svg" />
-      <div>
-        <div class="search-forms">
-          <div class="pesquisa-img">
-            <img class="search-button-img" src="img/lupa-branca.svg" id="pesquisa-img" onclick="opensearch()" alt=""
-              srcset="" />
-          </div>
-          <form class="pesquisa d-none" id="pesquisa" action="" method="post">
-            <div class="barra-pesquisa">
-              <input type="search" class="search-bar" placeholder="Buscar no Site..." />
-              <button class="search-button" type="submit" value="">
-                <img class="search-button-img" src="img/lupa-azul.svg" alt="" onclick="opensearch()" />
-              </button>
-            </div>
-          </form>
-        </div>
-      </div>
+
     </header>
 
     <section>
@@ -166,7 +162,7 @@
     </div>
   </section>
   <section class="prop-intelectual container p-rel">
-  <img src="./img/background-propriedade-2.svg" class="prop-int-bg"  >
+    <img src="./img/background-propriedade-2.svg" class="prop-int-bg">
     <div class="text-image">
       <div class="w-50">
         <h2 class="principal-title-2">Propriedade</h2>
@@ -343,49 +339,49 @@
     </div>
   </section>
   <section class="container midias-noticias">
-      <h2 class="principal-title-1">AGINOV</h2>
-      <p class="caption-1">Nas mídias Sociais</p>
-      <div class="cards-midias-sociais">
-        <div class="card-ms-item">
-          <p class="card-ms-titulo">
-            <strong> Redes Sociais</strong> Siga AGINOV
-          </p>
-          <div class="social-icons">
-            <img src="./img/facebook.svg" alt="Página do Facebook" />
-            <img src="./img/instagram.svg" alt="Instagram" />
-            <img src="./img/twitter.svg" alt="" />
-          </div>
-          <div class="card-ms-body">
-            <img src="./img/canal.png" alt="" />
-            <a class="btn-saibamais">Saiba Mais</a>
-          </div>
+    <h2 class="principal-title-1">AGINOV</h2>
+    <p class="caption-1">Nas mídias Sociais</p>
+    <div class="cards-midias-sociais">
+      <div class="card-ms-item">
+        <p class="card-ms-titulo">
+          <strong> Redes Sociais</strong> Siga AGINOV
+        </p>
+        <div class="social-icons">
+          <img src="./img/facebook.svg" alt="Página do Facebook" />
+          <img src="./img/instagram.svg" alt="Instagram" />
+          <img src="./img/twitter.svg" alt="" />
         </div>
-        <div class="card-ms-item">
-          <p class="card-ms-titulo">
-            <strong>AGINOV no Youtube</strong> Conheça nosso canal!
-          </p>
-          <div class="social-icons">
-            <img src="./img/youtube.svg" alt="" />
-          </div>
-          <div class="card-ms-body">
-            <img src="./img/canal.png" alt="" />
-            <a class="btn-saibamais">Saiba Mais</a>
-          </div>
-        </div>
-        <div class="card-ms-item">
-          <p class="card-ms-titulo">
-            <strong> AGINOV na Mídia </strong>Notícias recomendadas
-          </p>
-          <div class="social-icons">
-            <img src="./img/img.svg" alt="" />
-          </div>
-          <div class="card-ms-body">
-            <img src="./img/canal.png" alt="" />
-            <a class="btn-saibamais">Saiba Mais</a>
-          </div>
+        <div class="card-ms-body">
+          <img src="./img/canal.png" alt="" />
+          <a class="btn-saibamais">Saiba Mais</a>
         </div>
       </div>
-    </section>
+      <div class="card-ms-item">
+        <p class="card-ms-titulo">
+          <strong>AGINOV no Youtube</strong> Conheça nosso canal!
+        </p>
+        <div class="social-icons">
+          <img src="./img/youtube.svg" alt="" />
+        </div>
+        <div class="card-ms-body">
+          <img src="./img/canal.png" alt="" />
+          <a class="btn-saibamais">Saiba Mais</a>
+        </div>
+      </div>
+      <div class="card-ms-item">
+        <p class="card-ms-titulo">
+          <strong> AGINOV na Mídia </strong>Notícias recomendadas
+        </p>
+        <div class="social-icons">
+          <img src="./img/img.svg" alt="" />
+        </div>
+        <div class="card-ms-body">
+          <img src="./img/canal.png" alt="" />
+          <a class="btn-saibamais">Saiba Mais</a>
+        </div>
+      </div>
+    </div>
+  </section>
   <img class="bg-contatos" src="img/method-draw-image-contato.svg" alt="">
   <section class="container">
     <div class="services-description">
@@ -413,8 +409,8 @@
             Vespertino: 14h às 18h<br>
           </p>
         </div>
-      </dixv>
-    </div>
+        </dixv>
+      </div>
   </section>
   <footer>
     <img class="bg-footer" src="img/background-footer.svg ">
@@ -435,7 +431,7 @@
         <p class="color-1 font-2 margin">Fale conosco</p>
         <p class="color-1 font-1">Contato@unemat.br</p>
         <p class="color-1 font-1">+55 (65) 99999-9999 </p>
-        
+
 
         <div class="icon">
           <img src="img/facebook-icon.svg" alt="">

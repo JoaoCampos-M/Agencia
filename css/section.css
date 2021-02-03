@@ -8,6 +8,7 @@
 .description-item {
   max-width: 50%;
   margin-bottom: 20px;
+  padding: 4vh 0px;
 }
 
 .title-1 {
@@ -60,16 +61,15 @@
 .btn-blue {
   background-color: rgb(24, 52, 86);
   color: white;
-  font-family: Rubik-Light;
+  font-family: Rubik-Medium;
   border: none;
-  padding: 5px;
+  padding: 10px 50px;
   margin: 10px 0;
-  width: 150px;
   cursor: pointer;
 }
 
 .img-description {
-  width: 26vw;
+  width: 30vw;
   min-width: 250px;
 }
 

@@ -13,6 +13,15 @@ header {
   right: 0;
 }
 
+header .logo-Aginov{
+  width: 20vw;
+  min-width: 100px;
+}
+
+header .logo-Aginov img{
+  width: 100%;
+}
+
 header .logo-vitrine{
   max-width: 10vw;
 }
@@ -26,6 +35,7 @@ header .logo-vitrine img {
   display: flex;
   width: 50vw;
   justify-content: space-evenly;
+  margin-top: min(2vw, 30px);
 }
 
 .navbar-principal .navbar-item {

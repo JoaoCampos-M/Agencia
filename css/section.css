@@ -140,7 +140,7 @@
 .cards-categoria{
   background-color: #183456;
   padding: 7px 15px;
-  width: min(120px, 20vw);
+  width: max-content;
   margin: -12px 0 0 -8px;
 }
 

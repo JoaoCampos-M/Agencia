@@ -41,3 +41,9 @@ a {
 .float-r {
   float: right;
 }
+.pad-top-10{
+  padding-top:10vh!important;
+}
+.mg-1{
+  margin: 2vh;
+}

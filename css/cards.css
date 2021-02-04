@@ -225,3 +225,9 @@ section.prop-intelectual {
   width: 35vw;
   transform: rotateY(180deg);
 }
+.eventos-circle{
+  top: 0;
+  right:0;
+  margin-right: 8vw;
+  width: 20vw;
+}

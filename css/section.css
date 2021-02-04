@@ -29,7 +29,7 @@
   margin: 30px 0;
   width: 75%;
   color: rgb(24, 52, 86);
-  font-family: Rubik-Light;
+  font-family: Rubik-Regular;
   font-size: 1.3rem;
   min-width: 265px;
 }
@@ -163,5 +163,5 @@
 }
 
 .img-mapa{
-  width: min(380px, 70vw);
+  width: 25vw;
 }

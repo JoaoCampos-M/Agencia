@@ -162,11 +162,32 @@ header .logo-vitrine img {
 
 /* menu mobile */
 .dropdown img{
-  width: 100%;
+  width: 30px;
+  top: 5px;
+  left: 5px;
+  position: absolute;
 }
 
-.dropdown{
-  width: 40px;
-  padding: 0 10px;
+.close-dropdown{
+  top: 0;
+  bottom: 0;
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(31, 101, 101) ;
+  display: flex;
+  justify-content: center;
 }
 
+.menu-list{
+  display: flex;
+  align-self: center;
+}
+
+.item-menu-color{
+  color: white;
+}
+
+.item-menu a{
+  font-size: 0.8rem;
+}

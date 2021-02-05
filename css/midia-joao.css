@@ -1,0 +1,27 @@
+@media (max-width: 360px) {
+  .desktop {
+    display: none;
+  }
+}
+@media (max-width: 480px) {
+  .desktop {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  .desktop {
+    display: none;
+  }
+}
+@media (max-width: 801px) {
+  /* tablet, landscape iPad, lo-res laptops ands desktops */
+  .desktop {
+    display: none;
+  }
+}
+@media (max-width: 1025px) {
+  /* big landscape tablets, laptops, and desktops */
+}
+@media (min-width: 1281px) {
+  /* hi-res laptops and desktops */
+}

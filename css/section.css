@@ -74,7 +74,7 @@
 }
 
 .cards-lives-groups{
-  width: 100%;
+  width: 90%;
   display: flex;
   flex-direction: row;
   flex-wrap:  wrap;
@@ -83,7 +83,7 @@
 }
 
 .cards-lives{
-  max-width: 20vw;
+  max-width: 18vw;
   min-width: 250px;
   box-shadow: 0px 3px 29px -9px rgba(0,0,0,0.75);
   display: flex;
@@ -117,7 +117,7 @@
 
 .row-2 img{
   margin-right: 5px;
-  width: 10px;
+  width: 1vw;
 }
 
 .cards-info-title{
@@ -157,6 +157,7 @@
   align-items: center;
   text-align: center;
 }
+
 
 .bg-contatos{
   width: 100vw;

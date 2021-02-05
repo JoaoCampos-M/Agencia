@@ -5,6 +5,9 @@
   .menu-icones-mobile{
     display: block;
   }
+  header {
+    padding-top: 5px;
+  }
 }
 @media (max-width:480px) {
   .menu-icones{
@@ -13,6 +16,9 @@
   .menu-icones-mobile{
     display: block;
   }
+  header {
+    padding-top: 5px;
+  }
 }
 @media (max-width:600px) { 
   .menu-icones{
@@ -20,6 +26,9 @@
   }
   .menu-icones-mobile{
     display: block;
+  }
+  header {
+    padding-top: 5px;
   }
 }
 @media (max-width:801px) {

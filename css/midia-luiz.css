@@ -7,10 +7,20 @@
   }
 }
 @media (max-width:480px) {
-
+  .menu-icones{
+    display: none;
+  }
+  .menu-icones-mobile{
+    display: block;
+  }
 }
 @media (max-width:600px) { 
-
+  .menu-icones{
+    display: none;
+  }
+  .menu-icones-mobile{
+    display: block;
+  }
 }
 @media (max-width:801px) {
    /* tablet, landscape iPad, lo-res laptops ands desktops */

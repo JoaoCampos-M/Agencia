@@ -17,6 +17,27 @@
    *{
     font-size: 1.2rem;
   }
+  .title-1{
+    font-size: 2rem;
+  }
+  .subtitle-1{
+    font-size: 1.8rem;
+  }
+  .principal-title-2{
+    font-size: 2rem;
+  }
+  .caption-2{
+    font-size: 1.8rem;
+  }
+  .principal-title-1{
+    font-size: 2rem;
+  }
+  .caption-1{
+    font-size: 1.8rem;
+  }
+  .container{
+    padding: 10px;
+  }
 }
 @media (max-width: 480px) {
   .desktop {

@@ -23,12 +23,13 @@ header .logo-Aginov img{
 }
 
 header .logo-vitrine{
-  max-width: 10vw;
+  width: 9vw;
+  max-height: 158px;
 }
 
 header .logo-vitrine img {
-  max-width: 10vw;
-  max-height: 10vw;
+  width: 100%;
+  max-height: 100%;
 }
 
 .navbar-principal {
@@ -73,11 +74,12 @@ header .logo-vitrine img {
   display: flex;
   flex-direction: column;
   width: 170px;
+  min-height: 100%;
 }
 
 .search-forms {
   max-width: 180px;
-  min-height: 39px;
+  min-height: 40px;
   
 }
 
@@ -111,6 +113,7 @@ header .logo-vitrine img {
   width: 25px;
   padding: 0 3px;
   background: none;
+  
 }
 .d-none {
   display: none;

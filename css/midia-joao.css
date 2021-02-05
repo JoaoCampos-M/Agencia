@@ -38,6 +38,36 @@
   .container{
     padding: 10px;
   }
+  .services-description{
+    flex-wrap: wrap;
+  }
+  .description-item{
+    max-width: 100%;
+  }
+  .container-footer{
+    position: initial;
+    flex-wrap: wrap;
+  }
+  footer{
+    position: initial;
+  }
+  .cards-midias-sociais{
+    flex-wrap: wrap;
+    width: 90vw;
+  }
+  .card-ms-item{
+    width: 100%;
+    margin: 10px 0px;
+  }
+   .w-50{
+    max-width:100%;
+  }
+  .cards-lives-groups{
+    width: 90vw;
+  }
+  .cards-lives{
+    max-width: 100%;
+  }
 }
 @media (max-width: 480px) {
   .desktop {
@@ -58,10 +88,60 @@
    *{
     font-size: 1.2rem;
   }
-
+  .title-1{
+    font-size: 2rem;
+  }
+  .subtitle-1{
+    font-size: 1.8rem;
+  }
+  .principal-title-2{
+    font-size: 2rem;
+  }
+  .caption-2{
+    font-size: 1.8rem;
+  }
+  .principal-title-1{
+    font-size: 2rem;
+  }
+  .caption-1{
+    font-size: 1.8rem;
+  }
+  .container{
+    padding: 10px;
+  }
+  .services-description{
+    flex-wrap: wrap;
+  }
+  .description-item{
+    max-width: 100%;
+  }
+  .container-footer{
+    position: initial;
+    flex-wrap: wrap;
+  }
+  footer{
+    position: initial;
+  }
+  .cards-midias-sociais{
+    flex-wrap: wrap;
+    width: 90vw;
+  }
+  .card-ms-item{
+    width: 100%;
+    margin: 10px 0px;
+  }
+  .w-50{
+    max-width:100%;
+  }
+  .cards-lives-groups{
+    width: 90vw;
+  }
+  .cards-lives{
+    max-width: 100%;
+  }
 }
 @media (max-width: 600px) {
-  .desktop {
+     .desktop {
     display: none;
   }
   .cards-header{
@@ -78,6 +158,57 @@
   }
    *{
     font-size: 1.2rem;
+  }
+  .title-1{
+    font-size: 2rem;
+  }
+  .subtitle-1{
+    font-size: 1.8rem;
+  }
+  .principal-title-2{
+    font-size: 2rem;
+  }
+  .caption-2{
+    font-size: 1.8rem;
+  }
+  .principal-title-1{
+    font-size: 2rem;
+  }
+  .caption-1{
+    font-size: 1.8rem;
+  }
+  .container{
+    padding: 10px;
+  }
+  .services-description{
+    flex-wrap: wrap;
+  }
+  .description-item{
+    max-width: 100%;
+  }
+  .container-footer{
+    position: initial;
+    flex-wrap: wrap;
+  }
+  footer{
+    position: initial;
+  }
+  .cards-midias-sociais{
+    flex-wrap: wrap;
+    width: 90vw;
+  }
+  .card-ms-item{
+    width: 100%;
+    margin: 10px 0px;
+  }
+   .w-50{
+    max-width:100%;
+  }
+  .cards-lives-groups{
+    width: 90vw;
+  }
+  .cards-lives{
+    max-width: 100%;
   }
 }
 @media (max-width: 801px) {

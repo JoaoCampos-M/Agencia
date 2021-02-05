@@ -32,6 +32,17 @@ header .logo-vitrine img {
   max-height: 100%;
 }
 
+.menu-icones {
+  display: flex;
+  width: 90vw;
+  margin: 0px auto;
+  justify-content: space-around;
+}
+
+.menu-icones-mobile{
+  display: none;
+}
+
 .navbar-principal {
   display: flex;
   width: 50vw;
@@ -136,12 +147,6 @@ header .logo-vitrine img {
   transform-origin: left;
 }
 
-.menu-icones {
-  display: flex;
-  width: 90vw;
-  margin: 0px auto;
-  justify-content: space-around;
-}
 .baner-inicio {
   width: 100vw;
   height: 100vh;
@@ -152,4 +157,14 @@ header .logo-vitrine img {
   width: 100vw;
   bottom: 0px;
   z-index: -1;
+}
+
+
+/* menu mobile */
+.dropdown img{
+  width: 100%;
+}
+
+.dropdown{
+  width: 50px;
 }

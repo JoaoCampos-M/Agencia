@@ -1,0 +1,26 @@
+@media (max-width:360px) {
+  .menu-icones{
+    display: none;
+  }
+  .menu-icones-mobile{
+    display: block;
+  }
+}
+@media (max-width:480px) {
+
+}
+@media (max-width:600px) { 
+
+}
+@media (max-width:801px) {
+   /* tablet, landscape iPad, lo-res laptops ands desktops */
+
+}
+@media (max-width:1025px) { 
+  /* big landscape tablets, laptops, and desktops */
+  
+}
+@media (max-width:1281px) { 
+  /* hi-res laptops and desktops */
+  
+}

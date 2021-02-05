@@ -166,5 +166,6 @@ header .logo-vitrine img {
 }
 
 .dropdown{
-  width: 50px;
+  width: 40px;
+  padding: 0 10px;
 }

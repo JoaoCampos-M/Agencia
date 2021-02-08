@@ -242,6 +242,8 @@
   }
   .cards-lives{
     max-width: 100%;
+    width: 100%;
+    margin: 10px 5px;
   }
   .prop-intelectual{
     background-image: url("../img/background-propriedade-2.svg");
@@ -254,6 +256,24 @@
   .desenvolvido,.fale-conosco{
     width: auto;
     padding: 10px;
+  }
+  .card-ms-titulo{
+    font-size: 1rem;
+  }
+  .card-ms-titulo strong{
+    font-size: 1.1rem;
+  }
+  .row-2 img{
+    width: 2vh;
+  }
+  .row-1{
+    width: 100%;
+  }
+  .cards-info{
+    padding: 15px 10px;
+  }
+  .icon img{
+    width: 3vh;
   }
 }
 @media (max-width: 801px) {

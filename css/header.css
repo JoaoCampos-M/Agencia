@@ -177,7 +177,20 @@ header .logo-vitrine img {
   background-color: rgb(31, 101, 101) ;
   display: flex;
   justify-content: center;
+  z-index: 1;
 }
+
+.elements-list{
+  margin: 30px 0;
+  text-align: center;
+}
+
+.elements-list p{
+  border-bottom: solid 1px white;
+  width: max-content;
+  margin: auto;
+}
+
 
 .menu-list{
   display: flex;
@@ -188,6 +201,6 @@ header .logo-vitrine img {
   color: white;
 }
 
-.item-menu a{
+.item-menu-drop a{
   font-size: 0.8rem;
 }

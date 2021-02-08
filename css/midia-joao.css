@@ -44,12 +44,17 @@
   .description-item{
     max-width: 100%;
   }
-  .container-footer{
+   .container-footer{
     position: initial;
     flex-wrap: wrap;
+    background: #206666;
+    width: 100%;
+    margin: 0 auto;
+    flex-direction: column;
   }
   footer{
     position: initial;
+    height: max-content;
   }
   .cards-midias-sociais{
     flex-wrap: wrap;
@@ -68,6 +73,15 @@
   .cards-lives{
     max-width: 100%;
   }
+  .prop-intelectual{
+    background-image: url("../img/background-propriedade-2.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bg-footer{
+    bottom: initial;
+    margin-top: -6vh;
+  }
 }
 @media (max-width: 480px) {
   .desktop {
@@ -85,7 +99,7 @@
   .card-h-titulo{
     font-size: 1.1rem;
   }
-   *{
+  *{
     font-size: 1.2rem;
   }
   .title-1{
@@ -118,9 +132,14 @@
   .container-footer{
     position: initial;
     flex-wrap: wrap;
+    background: #206666;
+    width: 100%;
+    margin: 0 auto;
+    flex-direction: column;
   }
   footer{
     position: initial;
+    height: max-content;
   }
   .cards-midias-sociais{
     flex-wrap: wrap;
@@ -138,6 +157,11 @@
   }
   .cards-lives{
     max-width: 100%;
+  }
+  .prop-intelectual{
+    background-image: url("../img/background-propriedade-2.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }
 @media (max-width: 600px) {
@@ -189,9 +213,18 @@
   .container-footer{
     position: initial;
     flex-wrap: wrap;
+    background: #206666;
+    width: 100%;
+    margin: 0 auto;
+    flex-direction: column;
   }
   footer{
     position: initial;
+    height: max-content;
+  }
+  .bg-footer{
+    bottom: initial;
+    margin-top: -6vh;
   }
   .cards-midias-sociais{
     flex-wrap: wrap;
@@ -210,12 +243,22 @@
   .cards-lives{
     max-width: 100%;
   }
+  .prop-intelectual{
+    background-image: url("../img/background-propriedade-2.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  footer p{
+    font-size: 1rem;
+  }
+  .desenvolvido,.fale-conosco{
+    width: auto;
+    padding: 10px;
+  }
 }
 @media (max-width: 801px) {
   /* tablet, landscape iPad, lo-res laptops ands desktops */
-  .desktop {
-    display: none;
-  }
+  
 }
 @media (max-width: 1025px) {
   /* big landscape tablets, laptops, and desktops */

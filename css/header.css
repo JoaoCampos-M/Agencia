@@ -178,6 +178,9 @@ header .logo-vitrine img {
   display: flex;
   justify-content: center;
   z-index: 1;
+  border: solid .5px rgb(31, 101, 101) ;
+  
+  
 }
 
 .elements-list{
@@ -203,4 +206,11 @@ header .logo-vitrine img {
 
 .item-menu-drop a{
   font-size: 0.8rem;
+}
+
+.bg-dropdown{
+  z-index: 2;
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
 }

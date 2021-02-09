@@ -81,6 +81,7 @@
     transform: scale(1,1);
     transform-origin: top left;
     opacity: 1;
+  }
   90%{
    
     opacity: 0;

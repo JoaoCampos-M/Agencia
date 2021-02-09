@@ -1,50 +1,51 @@
 @media (max-width: 360px) {
-   .desktop {
+  .desktop {
     display: none;
   }
-  .cards-header{
-    flex-wrap: wrap; width: 90vw;
+  .cards-header {
+    flex-wrap: wrap;
+    width: 90vw;
   }
-  .baner-inicio{
+  .baner-inicio {
     height: max-content;
   }
-  .card-h-item{
-    margin:10px 5px;
+  .card-h-item {
+    margin: 10px 5px;
   }
-  .card-h-titulo{
+  .card-h-titulo {
     font-size: 1.1rem;
   }
-   *{
+  * {
     font-size: 1.2rem;
   }
-  .title-1{
+  .title-1 {
     font-size: 2rem;
   }
-  .subtitle-1{
+  .subtitle-1 {
     font-size: 1.8rem;
   }
-  .principal-title-2{
+  .principal-title-2 {
     font-size: 2rem;
   }
-  .caption-2{
+  .caption-2 {
     font-size: 1.8rem;
   }
-  .principal-title-1{
+  .principal-title-1 {
     font-size: 2rem;
   }
-  .caption-1{
+  .caption-1 {
     font-size: 1.8rem;
   }
-  .container{
+  .container {
     padding: 10px;
   }
-  .services-description{
+  .services-description {
     flex-wrap: wrap;
   }
-  .description-item{
+  .description-item {
     max-width: 100%;
   }
-   .container-footer{
+  .container-footer {
     position: initial;
     flex-wrap: wrap;
     background: #206666;
@@ -52,33 +53,33 @@
     margin: 0 auto;
     flex-direction: column;
   }
-  footer{
+  footer {
     position: initial;
     height: max-content;
   }
-  .cards-midias-sociais{
+  .cards-midias-sociais {
     flex-wrap: wrap;
     width: 90vw;
   }
-  .card-ms-item{
+  .card-ms-item {
     width: 100%;
     margin: 10px 0px;
   }
-   .w-50{
-    max-width:100%;
-  }
-  .cards-lives-groups{
-    width: 90vw;
-  }
-  .cards-lives{
+  .w-50 {
     max-width: 100%;
   }
-  .prop-intelectual{
+  .cards-lives-groups {
+    width: 90vw;
+  }
+  .cards-lives {
+    max-width: 100%;
+  }
+  .prop-intelectual {
     background-image: url("../img/background-propriedade-2.svg");
     background-repeat: no-repeat;
     background-size: cover;
   }
-  .bg-footer{
+  .bg-footer {
     bottom: initial;
     margin-top: -6vh;
   }
@@ -87,49 +88,50 @@
   .desktop {
     display: none;
   }
-  .cards-header{
-    flex-wrap: wrap; width: 90vw;
+  .cards-header {
+    flex-wrap: wrap;
+    width: 90vw;
   }
-  .baner-inicio{
+  .baner-inicio {
     height: max-content;
   }
-  .card-h-item{
-    margin:10px 5px;
+  .card-h-item {
+    margin: 10px 5px;
   }
-  .card-h-titulo{
+  .card-h-titulo {
     font-size: 1.1rem;
   }
-  *{
+  * {
     font-size: 1.2rem;
   }
-  .title-1{
+  .title-1 {
     font-size: 2rem;
   }
-  .subtitle-1{
+  .subtitle-1 {
     font-size: 1.8rem;
   }
-  .principal-title-2{
+  .principal-title-2 {
     font-size: 2rem;
   }
-  .caption-2{
+  .caption-2 {
     font-size: 1.8rem;
   }
-  .principal-title-1{
+  .principal-title-1 {
     font-size: 2rem;
   }
-  .caption-1{
+  .caption-1 {
     font-size: 1.8rem;
   }
-  .container{
+  .container {
     padding: 10px;
   }
-  .services-description{
+  .services-description {
     flex-wrap: wrap;
   }
-  .description-item{
+  .description-item {
     max-width: 100%;
   }
-  .container-footer{
+  .container-footer {
     position: initial;
     flex-wrap: wrap;
     background: #206666;
@@ -137,80 +139,82 @@
     margin: 0 auto;
     flex-direction: column;
   }
-  footer{
+  footer {
     position: initial;
     height: max-content;
   }
-  .cards-midias-sociais{
+  .cards-midias-sociais {
     flex-wrap: wrap;
     width: 90vw;
   }
-  .card-ms-item{
+  .card-ms-item {
     width: 100%;
     margin: 10px 0px;
   }
-  .w-50{
-    max-width:100%;
-  }
-  .cards-lives-groups{
-    width: 90vw;
-  }
-  .cards-lives{
+  .w-50 {
     max-width: 100%;
   }
-  .prop-intelectual{
+  .cards-lives-groups {
+    width: 90vw;
+  }
+  .cards-lives {
+    max-width: 100%;
+  }
+  .prop-intelectual {
     background-image: url("../img/background-propriedade-2.svg");
     background-repeat: no-repeat;
     background-size: cover;
   }
 }
 @media (max-width: 600px) {
-     .desktop {
+  .desktop {
     display: none;
   }
-  .cards-header{
-    flex-wrap: wrap; width: 90vw;
+  .cards-header {
+    flex-wrap: wrap;
+    width: 90vw;
   }
-  .baner-inicio{
+  .baner-inicio {
     height: max-content;
   }
-  .card-h-item{
-    margin:10px 5px;
+  .card-h-item {
+    margin: 10px 5px;
   }
-  .card-h-titulo{
+  .card-h-titulo {
     font-size: 1.1rem;
   }
-   *{
+  * {
     font-size: 1.2rem;
   }
-  .title-1{
+  .title-1 {
     font-size: 2rem;
+    white-space: pre-wrap;
   }
-  .subtitle-1{
+  .subtitle-1 {
     font-size: 1.8rem;
   }
-  .principal-title-2{
+  .principal-title-2 {
     font-size: 2rem;
   }
-  .caption-2{
+  .caption-2 {
     font-size: 1.8rem;
   }
-  .principal-title-1{
+  .principal-title-1 {
     font-size: 2rem;
   }
-  .caption-1{
+  .caption-1 {
     font-size: 1.8rem;
   }
-  .container{
+  .container {
     padding: 10px;
   }
-  .services-description{
+  .services-description {
     flex-wrap: wrap;
   }
-  .description-item{
+  .description-item {
     max-width: 100%;
   }
-  .container-footer{
+  .container-footer {
     position: initial;
     flex-wrap: wrap;
     background: #206666;
@@ -218,67 +222,77 @@
     margin: 0 auto;
     flex-direction: column;
   }
-  footer{
+  footer {
     position: initial;
     height: max-content;
   }
-  .bg-footer{
+  .bg-footer {
     bottom: initial;
     margin-top: -6vh;
   }
-  .cards-midias-sociais{
+  .cards-midias-sociais {
     flex-wrap: wrap;
     width: 90vw;
   }
-  .card-ms-item{
+  .card-ms-item {
     width: 100%;
     margin: 10px 0px;
   }
-   .w-50{
-    max-width:100%;
+  .w-50 {
+    max-width: 100%;
   }
-  .cards-lives-groups{
+  .cards-lives-groups {
     width: 90vw;
   }
-  .cards-lives{
+  .cards-lives {
     max-width: 100%;
     width: 100%;
     margin: 10px 5px;
   }
-  .prop-intelectual{
+  .prop-intelectual {
     background-image: url("../img/background-propriedade-2.svg");
     background-repeat: no-repeat;
     background-size: cover;
   }
-  footer p{
+  section.prop-intelectual {
+    padding: 10vh 10px;
+  }
+  footer p {
     font-size: 1rem;
   }
-  .desenvolvido,.fale-conosco{
+  .desenvolvido,
+  .fale-conosco {
     width: auto;
     padding: 10px;
   }
-  .card-ms-titulo{
+  .card-ms-titulo {
     font-size: 1rem;
   }
-  .card-ms-titulo strong{
+  .card-ms-titulo strong {
     font-size: 1.1rem;
   }
-  .row-2 img{
+  .row-2 img {
     width: 2vh;
   }
-  .row-1{
+  .row-1 {
     width: 100%;
   }
-  .cards-info{
+  .cards-info {
     padding: 15px 10px;
   }
-  .icon img{
+  .icon img {
     width: 3vh;
+  }
+  .bg-header-cicle-1 {
+    width: 40vw;
+  }
+  .bg-header-wave-2 {
+    bottom: initial;
+    margin-top: -25vw;
   }
 }
 @media (max-width: 801px) {
   /* tablet, landscape iPad, lo-res laptops ands desktops */
-  
 }
 @media (max-width: 1025px) {
   /* big landscape tablets, laptops, and desktops */

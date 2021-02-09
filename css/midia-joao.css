@@ -290,6 +290,18 @@
     bottom: initial;
     margin-top: -25vw;
   }
+  .events-hash1{
+    width: 30vw;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+  .events-hash2{
+    margin-left: 30vw;
+    width: 15vw;
+  }
+  .midias-circle {
+    width: 45vw;
+  }
 }
 @media (max-width: 801px) {
   /* tablet, landscape iPad, lo-res laptops ands desktops */

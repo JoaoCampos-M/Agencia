@@ -28,7 +28,6 @@
   text-align: center;
   color: rgb(24, 52, 86);
   font-family: Rubik-Light;
-  background-color: white;
 }
 
 .card-h-body {
@@ -94,6 +93,7 @@
   top: 20vh;
   left: 5vw;
   width: 20vw;
+  z-index: -1;
 }
 .bg-header-square-1 {
   position: absolute;
@@ -101,6 +101,7 @@
   right: 5vw;
   width: 18vw;
   height: 18vw;
+  z-index: -1;
 }
 
 /* cards de Eventos e Cursos */

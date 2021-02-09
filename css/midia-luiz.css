@@ -50,6 +50,15 @@
     min-width: 100px;
   
   }
+
+  .order-desk{
+    order: 1;
+  }
+  
+  .order-moba{
+    order: 0;
+  }
+  
 }
 @media (max-width:801px) {
    /* tablet, landscape iPad, lo-res laptops ands desktops */

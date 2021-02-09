@@ -69,16 +69,10 @@
   0% {
     transform: scale(0,0);
     transform-origin: top left;
-    border-bottom-right-radius: 50%;
-  border-top-right-radius: 50% ;
-  border-bottom-left-radius: 30%;
   }
   100% {
     transform: scale(1,1);
     transform-origin:  top left;
-    border-bottom-right-radius: 0%;
-    border-top-right-radius: 0% ;
-    border-bottom-left-radius: 0%;
   }
 }
 
@@ -87,7 +81,6 @@
     transform: scale(1,1);
     transform-origin: top left;
     opacity: 1;
-  }
   90%{
    
     opacity: 0;
@@ -95,6 +88,5 @@
   100% {
     transform: scale(0,0);
     transform-origin:  top left;
-
   }
 }

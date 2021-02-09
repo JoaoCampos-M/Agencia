@@ -91,3 +91,19 @@
     transform-origin:  top left;
   }
 }
+@keyframes tg-ativar{
+  from{
+    float: left;
+  }
+  to{
+    float: right;
+  }
+}
+@keyframes tg-desativar{
+  from{
+    float: right;
+  }
+  to{
+    float: left;
+  }
+}

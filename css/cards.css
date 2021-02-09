@@ -52,17 +52,30 @@
   padding: 5px 10px;
   box-shadow: 2px 2px 20px gray;
 }
+.social-icons img{
+   height: 100%;
+}
 .card-ms-item .social-icons {
   display: flex;
   justify-content: space-around;
-  margin: 5px 0px;
+  /* margin: 5px 0px; */
   padding: 10px 0px;
 }
+.card-ms-item .social-controls {
+  display: flex;
+  justify-content: space-around;
+  margin: 5px 0px;
+}
+.social-controls .sc-item{
+
+}
 .social-icons .social-toggle{
-  border-radius: 30%;
   padding: 1px;
-  width: 30%;
-  background: linear-gradient(45deg, white, #ececec);
+
+  background-image: url("../img/bg-youtube.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  cursor: pointer;
 }
 .card-ms-item a {
   display: block;
@@ -195,7 +208,6 @@
   align-items: center;
   text-align: center;
 }
-
 /*
 Outros estilos que mais tarde devem ser movidos para os arquivos certos
 */

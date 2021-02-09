@@ -11,6 +11,7 @@
   }
   .card-h-item {
     margin: 10px 5px;
+ 
   }
   .card-h-titulo {
     font-size: 1.1rem;
@@ -166,7 +167,7 @@
     background-size: cover;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .desktop {
     display: none;
   }
@@ -179,6 +180,7 @@
   }
   .card-h-item {
     margin: 10px 5px;
+    max-width: 450px;
   }
   .card-h-titulo {
     font-size: 1.1rem;
@@ -233,6 +235,7 @@
   .cards-midias-sociais {
     flex-wrap: wrap;
     width: 90vw;
+    max-width: 500px;
   }
   .card-ms-item {
     width: 100%;
@@ -242,12 +245,13 @@
     max-width: 100%;
   }
   .cards-lives-groups {
-    width: 90vw;
+    width: 95vw;
+
   }
   .cards-lives {
-    max-width: 100%;
+    max-width: 350px;
     width: 100%;
-    margin: 10px 5px;
+    margin: 10px auto;
   }
   .prop-intelectual {
     background-image: url("../img/background-propriedade-2.svg");
@@ -303,12 +307,12 @@
     width: 45vw;
   }
 }
-@media (max-width: 801px) {
+/* @media (max-width: 801px) { */
   /* tablet, landscape iPad, lo-res laptops ands desktops */
-}
-@media (max-width: 1025px) {
+/* }; */
+/* @media (max-width: 1025px) { */
   /* big landscape tablets, laptops, and desktops */
-}
-@media (min-width: 1281px) {
+/* } */
+/* @media (min-width: 1281px) { */
   /* hi-res laptops and desktops */
-}
+/* } */

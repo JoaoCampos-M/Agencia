@@ -8,8 +8,16 @@
 .description-item {
   max-width: 48vw;
   margin-bottom: 20px;
-  padding: 4vh 0px;
 }
+
+.order-desk{
+  order: 0;
+}
+
+.order-moba{
+  order: 1;
+}
+
 
 .title-1 {
   font-size: 3.5rem;

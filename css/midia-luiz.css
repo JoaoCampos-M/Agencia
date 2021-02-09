@@ -30,6 +30,20 @@
   header {
     padding-top: 0;
   }
+
+  .navbar-principal {
+    display: flex;
+    width: 83vw;
+    justify-content: space-between;
+    margin-top: 5px;
+  }
+  .search-bar {
+    border: 1px;
+    border-radius: 15px;
+    padding: 2px 25px 2px 5px;
+    width: 40vw;
+    font-size: 0.5rem;
+  }
 }
 @media (max-width:801px) {
    /* tablet, landscape iPad, lo-res laptops ands desktops */

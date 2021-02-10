@@ -71,8 +71,6 @@
 }
 .social-icons .social-toggle{
   padding: 1px;
-
-  background-image: url("../img/bg-youtube.svg");
   background-repeat: no-repeat;
   background-size: contain;
   cursor: pointer;

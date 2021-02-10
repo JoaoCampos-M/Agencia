@@ -453,25 +453,33 @@
         <div class="social-controls" >
           <div class="sc-item" >
              <label class="switch">
-              <input type="checkbox">
-              <span class="slider round"></span>
+              <input class="check-face" type="checkbox" checked>
+              <span class="slider round sl-face"></span>
           </label>
           </div>
          <div class="sc-item">
            <label class="switch">
-              <input type="checkbox">
-              <span class="slider round"></span>
+              <input class="check-insta" type="checkbox">
+              <span class="slider round sl-insta"></span>
           </label>
          </div>
           <div class="sc-item">
              <label class="switch">
-              <input type="checkbox">
-              <span class="slider round"></span>
+              <input class="check-twit" type="checkbox">
+              <span class="slider round sl-twit"></span>
           </label>
           </div>
         </div>
-        <div class="card-ms-body">
-          <img src="./img/canal.png" alt="" />
+        <div class="card-ms-body check-content-face d-block ">
+          <img src="./img/facebook.svg" />  
+          <a class="btn-saibamais">Saiba Mais</a>
+        </div>
+        <div class="card-ms-body check-content-insta d-none">
+          <img src="./img/instagram.svg" />  
+          <a class="btn-saibamais">Saiba Mais</a>
+        </div>
+        <div class="card-ms-body check-content-twit d-none" >
+          <img src="./img/twitter.svg" />  
           <a class="btn-saibamais">Saiba Mais</a>
         </div>
       </div>
@@ -574,6 +582,7 @@
   <script src="js/search-buton.js"></script>
   <script src="./js/map.js"></script>
   <script src="js/menu-dropdown.js"></script>
+  <script src="./js/social-toggle2.js" ></script>
 </body>
 
 </html>

@@ -64,3 +64,34 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+
+.temp1{
+  animation: temp1 3s 0s ease-in-out infinite alternate;
+  width: 130vw;
+  margin-left: -10vw;
+}
+.temp2{
+  margin-left: -15vw;
+  width: 140vw;
+  animation: temp2 3s 0s infinite alternate;
+}
+.temp3{
+  margin-left: -20vw;
+  width: 130vw;
+  animation: temp3 4s 0s infinite alternate;
+}
+@keyframes temp1{
+  from{
+    transform: translateX(120px);
+  }
+}
+@keyframes temp2{
+  from{
+    transform: translateX(-200px);
+  }
+}
+@keyframes temp3{
+  from{
+    transform: translateX(150px);
+  }
+}

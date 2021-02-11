@@ -12,9 +12,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg79"
-   width="1271.6981"
-   height="686.79248"
-   viewBox="0 0 1271.6982 686.79248"
+   width="1000.0001"
+   height="554.71692"
+   viewBox="0 0 1000.0002 554.71692"
    sodipodi:docname="sigla.png.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
@@ -44,9 +44,9 @@
      inkscape:window-height="718"
      id="namedview81"
      showgrid="false"
-     inkscape:zoom="0.265"
-     inkscape:cx="633.96227"
-     inkscape:cy="230.18866"
+     inkscape:zoom="0.53"
+     inkscape:cx="288.84982"
+     inkscape:cy="316.60969"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1008,21 +1008,52 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFyMfbU5HniBsAAAAAElFTkSuQmCC
 "
      id="image87"
-     x="-366.03772"
-     y="-543.39618" />
+     x="-498.11319"
+     y="-586.79248" />
   <path
      style="fill:none"
-     d="M -366.03773,-60.377366 H 1637.7359 V 777.35846 H -366.03773 Z"
+     d="M -498.1132,-103.77364 H 1505.6604 V 733.96219 H -498.1132 Z"
      id="path89"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none"
-     d="M -362.26415,-1.72741e-5 H 1633.9623 V 679.24526 H -362.26415 Z"
+     d="M -494.33962,-43.396292 H 1501.8868 V 635.84899 H -494.33962 Z"
      id="path91"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none"
-     d="M 0,3.7735849 V 686.79245 H 1271.6982 V 0 H 0 Z"
+     d="M -132.07547,-39.62269 V 643.39618 H 1139.6227 V -43.396275 H -132.07547 Z"
      id="path93"
      inkscape:connector-curvature="0" />
+  <path
+     style="fill:none"
+     d="M -132.07547,-1.8868128 H 1033.9622 V 613.20753 H -128.30189 V -1.8868128 Z"
+     id="path114"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none"
+     d="M -132.07547,-1.8868128 H 1033.9622 V 613.20753 H -128.30189 V -1.8868128 Z"
+     id="path116"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="fill:none"
+     id="rect126"
+     width="1000"
+     height="613.20752"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:none"
+     id="rect131"
+     width="998.11322"
+     height="58.49054"
+     x="1.8867924"
+     y="554.71698" />
+  <rect
+     style="fill:none"
+     id="rect144"
+     width="1000.0001"
+     height="554.71692"
+     x="0"
+     y="0" />
 </svg>

@@ -12,10 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg79"
-   width="1271.6981"
-   height="686.79248"
-   viewBox="0 0 1271.6982 686.79248"
-   sodipodi:docname="sigla.png.svg"
+   width="998.11322"
+   height="58.49054"
+   viewBox="0 0 998.11332 58.49054"
+   sodipodi:docname="sigla2svg.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata85">
@@ -44,9 +44,9 @@
      inkscape:window-height="718"
      id="namedview81"
      showgrid="false"
-     inkscape:zoom="0.265"
-     inkscape:cx="633.96227"
-     inkscape:cy="230.18866"
+     inkscape:zoom="0.53"
+     inkscape:cx="286.96303"
+     inkscape:cy="316.60969"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1008,21 +1008,59 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFyMfbU5HniBsAAAAAElFTkSuQmCC
 "
      id="image87"
-     x="-366.03772"
-     y="-543.39618" />
+     x="-499.99997"
+     y="-1141.5095" />
   <path
      style="fill:none"
-     d="M -366.03773,-60.377366 H 1637.7359 V 777.35846 H -366.03773 Z"
+     d="M -499.99999,-658.49062 H 1503.7736 V 179.24521 H -499.99999 Z"
      id="path89"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none"
-     d="M -362.26415,-1.72741e-5 H 1633.9623 V 679.24526 H -362.26415 Z"
+     d="M -496.22641,-598.11327 H 1500 V 81.13201 H -496.22641 Z"
      id="path91"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none"
-     d="M 0,3.7735849 V 686.79245 H 1271.6982 V 0 H 0 Z"
+     d="M -133.96226,-594.33967 V 88.6792 H 1137.7359 V -598.11325 H -133.96226 Z"
      id="path93"
      inkscape:connector-curvature="0" />
+  <path
+     style="fill:none"
+     d="M -133.96226,-556.60379 H 1032.0754 V 58.49055 H -130.18868 v -615.09434 z"
+     id="path114"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none"
+     d="M -133.96226,-556.60379 H 1032.0754 V 58.49055 H -130.18868 v -615.09434 z"
+     id="path116"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="fill:none"
+     id="rect126"
+     width="1000"
+     height="613.20752"
+     x="-1.8867924"
+     y="-554.71698" />
+  <rect
+     style="fill:none"
+     id="rect131"
+     width="998.11322"
+     height="58.49054"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:none"
+     id="rect144"
+     width="1000.0001"
+     height="554.71692"
+     x="-1.8867924"
+     y="-554.71698" />
+  <rect
+     style="fill:none"
+     id="rect188"
+     width="998.11322"
+     height="58.49054"
+     x="0"
+     y="0" />
 </svg>

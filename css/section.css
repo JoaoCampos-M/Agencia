@@ -157,7 +157,7 @@ section.prop-intelectual {
 .prop-int-bg {
   position: absolute;
   width: 120vw;
-
+  margin-left: 10vw;
   right: 0;
   top: 0px;
   left: 0;

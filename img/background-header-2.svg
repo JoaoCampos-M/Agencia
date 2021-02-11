@@ -12,7 +12,7 @@
    viewBox="0 0 1050 207"
    version="1.1"
    id="svg3799"
-   sodipodi:docname="background-header.svg"
+   sodipodi:docname="background-header-2.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata3803">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,10 +65,10 @@
      transform="translate(-396 2704)"
      clip-path="url(#clip-path)">
     <path
-       id="Caminho_15079"
-       data-name="Caminho 15079"
+       id="Caminho_15080"
+       data-name="Caminho 15080"
        d="M216.532-2.1s98.212,41.763,185.841,159.745,87.679,258.882,251.346,464.622,259.718,313.8-189.586,515.38c-25.61,11.49,145.018-174.735,145.018-174.735L107.777,276.235-1.179,120.629Z"
-       transform="matrix(-0.574, 0.819, -0.819, -0.574, 1626.71, -2740.942)"
-       fill="#ff8902" />
+       transform="matrix(-0.574, 0.819, -0.819, -0.574, 1688.298, -2755.942)"
+       fill="#018194" />
   </g>
 </svg>

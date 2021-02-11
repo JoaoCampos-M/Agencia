@@ -5,11 +5,15 @@ header {
   min-height: 20vh;
 }
 
+.zindex{
+  z-index: -2 !important;
+  
+}
 .bg-header-wave {
   position: absolute;
   z-index: -1;
   top: 0%;
-  width: 80vw;
+  width: 81vw;
   right: 0;
 }
 
@@ -175,11 +179,11 @@ header .logo-vitrine img {
   position: fixed;
   height: 100vh;
   width: 100vw;
-  background-color: rgb(31, 101, 101) ;
+  background-color: #018194 ;
   overflow: hidden;
   justify-content: center;
   z-index: 1;
-  border: solid .5px rgb(31, 101, 101) ;
+  border: solid .5px #018194 ;
   
   
 }

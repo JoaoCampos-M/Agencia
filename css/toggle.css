@@ -83,6 +83,10 @@ input:checked + .slider:before {
 .temp4{
   animation: temp4 5s 0s infinite alternate;
 }
+.header-temp-1{
+  animation: temp1 3s 0s ease-in-out infinite alternate;
+  /* margin-left: -15vw; */
+}
 @keyframes temp1{
   from{
     transform: translateY(12px);

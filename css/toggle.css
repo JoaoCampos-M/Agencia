@@ -80,6 +80,12 @@ input:checked + .slider:before {
   width: 100vw;
   animation: temp3 4s 0s infinite alternate;
 }
+
+.header-temp-1{
+  animation: temp1 3s 0s ease-in-out infinite alternate;
+  /* margin-left: -15vw; */
+}
+
 @keyframes temp1{
   from{
     transform: translateY(12px);

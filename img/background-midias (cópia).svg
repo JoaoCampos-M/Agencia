@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,13 +39,13 @@
      inkscape:window-height="718"
      id="namedview769"
      showgrid="false"
-     inkscape:zoom="0.76467072"
-     inkscape:cx="750.12271"
-     inkscape:cy="356.54875"
+     inkscape:zoom="2.1628154"
+     inkscape:cx="1227.8363"
+     inkscape:cy="63.00273"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="OBJECTS-2" />
+     inkscape:current-layer="svg767" />
   <defs
      id="defs754">
     <clipPath
@@ -64,6 +64,13 @@
      id="Grupo_3667"
      data-name="Grupo 3667"
      transform="translate(6.863,-3609.097)">
+    <path
+       id="That_s_enough_"
+       data-name="That's enough!"
+       d="m 44.732,531.69 13.1,82.715 c 0,0 88.926,37.14 263.913,-1.451 174.987,-38.591 249.332,-18.78 462.621,-55.453 213.289,-36.673 163.757,-50.236 390.535,-91.239 226.778,-41.003 223.12,8.775 223.12,8.775 L 1359.333,281.911 1323.219,2.754 c 0,0 -168.376,-24.713 -367.035,58.133 C 908.827,80.636 800.821,154.535 654.573,179 508.325,203.465 414.959,184.611 316.683,180.77 75.222,171.336 0,249.266 0,249.266 Z"
+       transform="rotate(-171,796.94633,1936.4973)"
+       inkscape:connector-curvature="0"
+       style="fill:#f9c001" />
     <g
        id="Grupo_3444"
        data-name="Grupo 3444"
@@ -71,24 +78,31 @@
       <g
          id="Camada_2"
          data-name="Camada 2"
-         transform="translate(7.706)" />
+         transform="translate(7.706)">
+        <g
+           id="OBJECTS">
+          <path
+             id="Caminho_270"
+             data-name="Caminho 270"
+             d="M 1302.071,42.712 V 0 H 0 v 124.147 c 89.025,-27.872 267.618,-74.3 479.733,-78.306 246.1,-4.628 569.548,48 818.078,-1.651 1.662,-0.332 2.265,-1.065 4.26,-1.478 z"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-rule:evenodd" />
+        </g>
+      </g>
       <g
          id="Camada_2-2"
          data-name="Camada 2"
          transform="translate(0,24.545)">
         <g
            id="OBJECTS-2"
-           data-name="OBJECTS"
-           transform="matrix(1.0215856,0,0,1,9.1542668,0)"
-           style="stroke-width:0.98937881">
+           data-name="OBJECTS">
           <path
              id="Caminho_271"
              data-name="Caminho 271"
              d="m 480.772,0 c 238.667,0.817 535.409,54.748 791.5,25.666 C 1028.436,74.032 713.326,22.259 472.16,26.866 263.422,30.853 87.7,77.291 0,105.172 V 62.354 C 105.834,35.135 282.816,-0.631 480.772,0 Z"
              transform="translate(0,0.01)"
              inkscape:connector-curvature="0"
-             style="fill:#206666;fill-rule:evenodd;stroke-width:0.98937881"
-             sodipodi:nodetypes="cccccc" />
+             style="fill:#206666;fill-rule:evenodd" />
         </g>
       </g>
     </g>
@@ -96,7 +110,16 @@
        id="Grupo_3445"
        data-name="Grupo 3445"
        transform="matrix(-0.985,-0.174,0.174,-0.985,1250.024,3941.274)"
-       clip-path="url(#clip-path)" />
+       clip-path="url(#clip-path)">
+      <path
+         id="Caminho_15074"
+         data-name="Caminho 15074"
+         d="M 1350.926,18.974 C 1306.109,3.81 1254.761,0.06 1222.023,0 c -61.891,-0.111 -109.355,13.481 -143.992,30.1 -27.36,13.134 -53.354,26.578 -76.83,40.6 -57.815,34.307 -105.876,37.652 -129.522,40.944 -68.7,9.494 -209.02,-1.292 -309.454,15.245 C 362.808,159.724 322.259,239.937 0,226.02"
+         transform="translate(-38.415,58.454)"
+         stroke-miterlimit="10"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#f9c001;stroke-width:3;stroke-miterlimit:10" />
+    </g>
   </g>
   <path
      style="fill:none"

@@ -12,7 +12,7 @@
    viewBox="0 0 1302.0711 178.4054"
    version="1.1"
    id="svg767"
-   sodipodi:docname="background-midias.svg"
+   sodipodi:docname="background-midias2.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata771">
@@ -40,12 +40,12 @@
      id="namedview769"
      showgrid="false"
      inkscape:zoom="0.76467072"
-     inkscape:cx="750.12271"
-     inkscape:cy="356.54875"
+     inkscape:cx="593.96383"
+     inkscape:cy="73.671131"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="OBJECTS-2" />
+     inkscape:current-layer="Grupo_3667" />
   <defs
      id="defs754">
     <clipPath
@@ -64,39 +64,30 @@
      id="Grupo_3667"
      data-name="Grupo 3667"
      transform="translate(6.863,-3609.097)">
+    <path
+       id="That_s_enough_"
+       data-name="That's enough!"
+       d="m -8.5316169,3697.7562 2.6147589,89.7462 c 0,0 84.451481,4.6461 258.537928,2.0967 174.08644,-2.5494 238.83741,-0.6936 449.45063,-1.3714 210.61327,-0.6778 162.29013,1.7017 386.5293,0.5097 224.2392,-1.1919 206.607,-1.235 206.607,-1.235 l 0.6003,-62.8728 -2.2269,-97.4637 c 0,0 -136.8563,117.8126 -346.58732,64.1183 -146.25554,-37.4435 -161.99965,-51.3167 -314.13591,-51.3009 -160.00194,0.017 -210.1494,87.676 -295.60433,57.6025 -115.26015,-31.0245 -217.26485,-42.7943 -217.26485,-42.7943 -108.551717,24.3731 -67.807789,12.0782 -128.5206069,42.9647 z"
+       inkscape:connector-curvature="0"
+       style="fill:#f9c001;stroke-width:1"
+       sodipodi:nodetypes="ccssscccssccc" />
     <g
        id="Grupo_3444"
        data-name="Grupo 3444"
-       transform="translate(-14.569,3609.097)">
-      <g
-         id="Camada_2"
-         data-name="Camada 2"
-         transform="translate(7.706)" />
+       transform="matrix(1,0,0,-1.0671794,-6.863,3747.539)"
+       style="stroke-width:0.96801323">
       <g
          id="Camada_2-2"
          data-name="Camada 2"
-         transform="translate(0,24.545)">
+         transform="translate(0,24.545)"
+         style="stroke-width:0.96801323">
         <g
            id="OBJECTS-2"
            data-name="OBJECTS"
-           transform="matrix(1.0215856,0,0,1,9.1542668,0)"
-           style="stroke-width:0.98937881">
-          <path
-             id="Caminho_271"
-             data-name="Caminho 271"
-             d="m 480.772,0 c 238.667,0.817 535.409,54.748 791.5,25.666 C 1028.436,74.032 713.326,22.259 472.16,26.866 263.422,30.853 87.7,77.291 0,105.172 V 62.354 C 105.834,35.135 282.816,-0.631 480.772,0 Z"
-             transform="translate(0,0.01)"
-             inkscape:connector-curvature="0"
-             style="fill:#206666;fill-rule:evenodd;stroke-width:0.98937881"
-             sodipodi:nodetypes="cccccc" />
-        </g>
+           style="stroke-width:0.95694864"
+           transform="scale(1.0232584,1)" />
       </g>
     </g>
-    <g
-       id="Grupo_3445"
-       data-name="Grupo 3445"
-       transform="matrix(-0.985,-0.174,0.174,-0.985,1250.024,3941.274)"
-       clip-path="url(#clip-path)" />
   </g>
   <path
      style="fill:none"

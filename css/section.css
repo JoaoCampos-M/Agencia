@@ -57,7 +57,7 @@
 
 .margin-right-green {
   margin-top: 30px;
-  border-right: solid 8px #1f6565;
+  border-right: solid 8px #018194;
   padding-right: 20px;
 }
 
@@ -105,32 +105,32 @@
 
 .text-image .text-container {
   display: block;
-  border-left: 8px solid #1f6565;
+  border-left: 8px solid #018194;
   padding: 5px 10px;
   margin: 40px 0px;
 }
 
 .txt-1 {
-  color: #1f6565;
+  color: #018194;
   font-size: 1.2rem;
 }
 
 .principal-title-2 {
   font-family: Rubik-Bold;
   font-size: 4rem;
-  color: #1f6565;
+  color: #018194;
   margin: 10px 0px;
 }
 
 .caption-2 {
   font-family: Rubik-Regular;
   font-size: 3rem;
-  color: #1f6565;
+  color: #018194;
 }
 .btn-saber-mais-1 {
   font-weight: bold;
   color: white;
-  background-color: #1f6565;
+  background-color: #018194;
   padding: 8px 20px;
   margin: 5px auto;
   width: max-content;

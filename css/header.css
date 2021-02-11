@@ -1,7 +1,7 @@
 header {
   width: 100vw;
   /* background-color: #1f6565; */
-  padding-top: 2rem;
+  padding-top: .5rem;
   min-height: 20vh;
 }
 
@@ -14,7 +14,7 @@ header {
 }
 
 header .logo-Aginov{
-  width: 20vw;
+  width: 25vw;
   min-width: 100px;
 
 }
@@ -35,7 +35,7 @@ header .logo-vitrine img {
 
 .menu-icones {
   display: flex;
-  width: 90vw;
+  width: 95vw;
   margin: 0px auto;
   justify-content: space-around;
 }
@@ -46,7 +46,7 @@ header .logo-vitrine img {
 
 .navbar-principal {
   display: flex;
-  width: 50vw;
+  width: 60vw;
   justify-content: space-evenly;
   margin-top: min(2vw, 30px);
 }

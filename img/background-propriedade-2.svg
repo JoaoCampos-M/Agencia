@@ -7,16 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1344.245"
-   height="588.17731"
-   viewBox="0 0 1344.245 588.17732"
+   width="1375.9049"
+   height="454.40952"
+   viewBox="0 0 1375.9049 454.40953"
    version="1.1"
    id="svg3997"
    sodipodi:docname="background-propriedade-2.svg"
    inkscape:export-filename="/opt/lampp/htdocs/Agencia/img/background-propriedade.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata4001">
     <rdf:RDF>
@@ -39,17 +39,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="705"
      id="namedview3999"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="1.3371818"
-     inkscape:cx="140.74191"
-     inkscape:cy="482.16974"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.47276516"
+     inkscape:cx="231.1286"
+     inkscape:cy="175.88974"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3997" />
+     inkscape:current-layer="Grupo_3666" />
   <defs
      id="defs3989">
     <clipPath
@@ -78,21 +78,7 @@
   <g
      id="Grupo_3666"
      data-name="Grupo 3666"
-     transform="translate(22.727654,-1784.7305)">
-    <g
-       id="Grupo_3424"
-       data-name="Grupo 3424"
-       transform="rotate(169,575.41673,970.39226)"
-       clip-path="url(#clip-path)">
-      <path
-         id="Caminho_14672"
-         data-name="Caminho 14672"
-         d="m 1402.743,208.652 c -46.536,15.164 -99.854,18.914 -133.848,18.973 -64.265,0.111 -113.549,-13.481 -149.515,-30.1 -28.409,-13.134 -55.4,-26.578 -79.777,-40.6 C 979.571,122.618 929.666,119.273 905.113,115.981 833.779,106.487 688.076,117.273 583.79,100.736 376.724,67.9 334.619,-12.311 0,1.606"
-         transform="translate(-39.888,2.92)"
-         stroke-miterlimit="10"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#f9c001;stroke-width:3;stroke-miterlimit:10" />
-    </g>
+     transform="matrix(1,0,0,0.77046863,37.443331,-1374.4177)">
     <path
        id="That_s_enough_"
        data-name="That's enough!"
@@ -100,24 +86,10 @@
        transform="rotate(-167,776.13655,1244.2785)"
        inkscape:connector-curvature="0"
        style="opacity:0.25;fill:#f9c001" />
-    <g
-       id="Grupo_3423"
-       data-name="Grupo 3423"
-       transform="matrix(0.985,-0.174,0.174,0.985,-14.668,2320.665)"
-       clip-path="url(#clip-path-2)">
-      <path
-         id="Caminho_14671"
-         data-name="Caminho 14671"
-         d="m 1350.926,208.652 c -44.817,15.164 -96.165,18.914 -128.9,18.973 -61.891,0.111 -109.355,-13.481 -143.992,-30.1 -27.36,-13.134 -53.354,-26.578 -76.83,-40.6 -57.815,-34.307 -105.876,-37.652 -129.522,-40.944 -68.7,-9.494 -209.02,1.292 -309.454,-15.245 C 362.808,67.9 322.259,-12.311 0,1.606"
-         transform="translate(-38.415,2.92)"
-         stroke-miterlimit="10"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#f9c001;stroke-width:3;stroke-miterlimit:10" />
-    </g>
   </g>
   <path
      style="fill:none"
-     d="M 0,21.313481 V 588.1773 H 1344.245 V 0 H 0 Z"
+     d="M 25.291752,13.710662 V 580.57448 H 1369.5368 V -7.602819 H 25.291752 Z"
      id="path79"
      inkscape:connector-curvature="0" />
 </svg>

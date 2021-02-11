@@ -41,7 +41,7 @@
      showgrid="false"
      inkscape:zoom="0.76467072"
      inkscape:cx="750.12271"
-     inkscape:cy="356.54875"
+     inkscape:cy="251.92855"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -84,10 +84,9 @@
           <path
              id="Caminho_271"
              data-name="Caminho 271"
-             d="m 480.772,0 c 238.667,0.817 535.409,54.748 791.5,25.666 C 1028.436,74.032 713.326,22.259 472.16,26.866 263.422,30.853 87.7,77.291 0,105.172 V 62.354 C 105.834,35.135 282.816,-0.631 480.772,0 Z"
-             transform="translate(0,0.01)"
+             d="M 481.45633,-2.6050953 C 723.00498,-1.7474627 1023.3298,54.865729 1282.5129,24.337372 1035.7328,75.108794 716.81817,20.760928 472.74035,25.597052 261.48206,29.78234 83.638404,78.529876 -5.1204811,107.7975 V 62.850004 C 101.99135,34.2773 281.11022,-3.2674773 481.45633,-2.6050953 Z"
              inkscape:connector-curvature="0"
-             style="fill:#018194;fill-rule:evenodd;stroke-width:0.98937881"
+             style="fill:#018194;fill-rule:evenodd;stroke-width:0.98937875"
              sodipodi:nodetypes="cccccc" />
         </g>
       </g>

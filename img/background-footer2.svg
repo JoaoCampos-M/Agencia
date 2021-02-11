@@ -10,11 +10,11 @@
    width="1299.113"
    height="185.69299999999998"
    version="1.1"
-   id="svg65"
-   sodipodi:docname="background-footer.svg"
+   id="svg150"
+   sodipodi:docname="background-footer2.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
-     id="metadata71">
+     id="metadata156">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,7 +25,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs69" />
+     id="defs154" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,19 +37,19 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="718"
-     id="namedview67"
+     id="namedview152"
      showgrid="false"
-     inkscape:zoom="0.6379192"
-     inkscape:cx="727.79475"
-     inkscape:cy="47.4176"
+     inkscape:zoom="0.87087945"
+     inkscape:cx="936.1053"
+     inkscape:cy="203.79922"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="OBJECTS" />
+     inkscape:current-layer="Grupo_3406" />
   <g
-     id="g54">
+     id="g139">
     <title
-       id="title51">background</title>
+       id="title136">background</title>
     <rect
        fill="none"
        id="canvas_background"
@@ -59,25 +59,17 @@
        x="-1" />
   </g>
   <g
-     id="g63">
+     id="g148">
     <title
-       id="title56">Layer 1</title>
+       id="title141">Layer 1</title>
     <g
        id="Grupo_3406">
-      <g
-         id="Camada_2"
-         transform="matrix(1.1115451,0,0,1,0.52609231,0)"
-         style="stroke-width:0.94849807">
-        <g
-           id="OBJECTS"
-           style="stroke-width:0.94849807">
-          <path
-             d="m 464.67659,96.53858 c 233.018,-0.747 522.736,-50.032 772.77101,-23.455 -238.06401,-44.2 -545.71701,3.114 -781.17501,-1.1 -203.802,-3.639 -375.364,-46.076 -460.989,-71.555 v 39.129 c 103.329,24.874 276.122,57.559 469.393,56.981 z"
-             id="Caminho_271"
-             inkscape:connector-curvature="0"
-             style="fill:#ff8902;fill-rule:evenodd;stroke-width:0.94849807" />
-        </g>
-      </g>
+      <path
+         d="m 0.85932,189.24639 c -3.0657,-29.96076 -0.74641271,-80.32625 -0.74641271,-80.32625 0,0 -8.47819909,-94.304834 5.26274091,-92.478784 C 75.497528,25.760776 149.36285,53.40597 232.65833,63.61953 c 107.0079,13.1224 143.71704,29.482694 246.96035,26.100344 11.43267,-0.37481 114.60367,-20.749355 114.60367,-20.749355 0,0 66.01243,-4.320538 69.65338,-4.608738 159.53091,7.367033 188.45244,42.885429 330.99023,17.134892 116.17994,-45.123071 116.83924,-62.939298 269.09454,-40.132934 45.4551,6.808733 55.1682,-12.16851 55.1682,-12.16851 l -5.6974,157.830781 c 0,0 -1169.20881,9.64898 -1312.57198,2.22036 z"
+         id="Caminho_11207"
+         inkscape:connector-curvature="0"
+         style="fill:#018194"
+         sodipodi:nodetypes="ccccccccscccc" />
     </g>
   </g>
 </svg>

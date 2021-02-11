@@ -73,7 +73,10 @@
   padding: 10px 50px;
   margin: 10px 0;
   cursor: pointer;
+ 
 }
+
+
 
 .img-description {
   width: 30vw;
@@ -153,7 +156,9 @@ section.prop-intelectual {
 }
 .prop-int-bg {
   position: absolute;
-  width: 100vw;
+  width: 120vw;
+
+  right: 0;
   top: 0px;
   left: 0;
   z-index: -1;

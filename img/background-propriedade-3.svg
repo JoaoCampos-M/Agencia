@@ -12,7 +12,7 @@
    viewBox="0 0 1369.8361 454.41002"
    version="1.1"
    id="svg40"
-   sodipodi:docname="background-propriedade.svg"
+   sodipodi:docname="background-propriedade-3.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata44">
@@ -75,19 +75,19 @@
      data-name="Grupo 3666"
      transform="matrix(1,0,0,0.82662289,44.41505,-1487.6301)">
     <g
-       id="Grupo_3423"
-       data-name="Grupo 3423"
-       transform="matrix(1.0316782,-0.19292008,0.18224569,1.092105,-44.70939,2316.8747)"
-       clip-path="url(#clip-path-2)"
-       style="stroke-width:0.92796564">
+       id="Grupo_3424"
+       data-name="Grupo 3424"
+       transform="matrix(-0.9919388,0.190809,-0.19281337,-0.98162718,1325.0188,1813.161)"
+       clip-path="url(#clip-path)"
+       style="stroke-width:0.99478871">
       <path
-         id="Caminho_14671"
-         data-name="Caminho 14671"
-         d="m 1350.926,208.652 c -44.817,15.164 -96.165,18.914 -128.9,18.973 -61.891,0.111 -109.355,-13.481 -143.992,-30.1 -27.36,-13.134 -53.354,-26.578 -76.83,-40.6 -57.815,-34.307 -105.876,-37.652 -129.522,-40.944 -68.7,-9.494 -209.02,1.292 -309.454,-15.245 C 362.808,67.9 322.259,-12.311 0,1.606"
-         transform="translate(-38.415,2.92)"
+         id="Caminho_14672"
+         data-name="Caminho 14672"
+         d="m 1402.743,208.652 c -46.536,15.164 -99.854,18.914 -133.848,18.973 -64.265,0.111 -113.549,-13.481 -149.515,-30.1 -28.409,-13.134 -55.4,-26.578 -79.777,-40.6 C 979.571,122.618 929.666,119.273 905.113,115.981 833.779,106.487 688.076,117.273 583.79,100.736 376.724,67.9 334.619,-12.311 0,1.606"
+         transform="translate(-39.888,2.92)"
          stroke-miterlimit="10"
          inkscape:connector-curvature="0"
-         style="fill:none;stroke:#ff8902;stroke-width:2.78389668;stroke-miterlimit:10" />
+         style="fill:none;stroke:#ff8902;stroke-width:2.98436618;stroke-miterlimit:10" />
     </g>
     <rect
        style="fill:none;stroke-width:1.09988248"

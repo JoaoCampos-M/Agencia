@@ -31,6 +31,7 @@ addClickLista(".inicio-op", ".inicio");
 addClickLista(".menu2-op", ".menu2");
 addClickLista(".menu3-op", ".menu3");
 addClickLista(".contato-op", ".contato");
+addClickLista(".empreend-op", ".empreend");
 
 function addClickLista(elClass, opClass) {
   el = document.querySelector(elClass);
